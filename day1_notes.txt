@@ -1,0 +1,9 @@
+# Well the first day went by smoothly enough
+# Learned Linux Command-Line and created a System Cleanup Script
+# The code for it was simple enough to understand which is the goal of it
+# Created the script with no issues
+# Learned about If-else-fi statements, couple of bruises from it but
+# got it working
+
+# That's all, just got to figure out how this whole Git thing works.
+
