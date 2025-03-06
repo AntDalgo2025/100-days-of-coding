@@ -1,4 +1,6 @@
 import psutil
+import logging
+from logging.handlers import RotatingFileHandler
 import time
 import datetime
 import os
@@ -44,40 +46,43 @@ with open("system_info_log.txt", "a") as log_file:
 		# Log Entry with CPU, Memory, Disk, Network, and Process Info
 		log_entry = f"{timestamp} - CPU: {cpu}%, Memory: {mem.percent}%, Disk: {disk.percent}%, Network: Sent={net_io.bytes_sent} Bytes, Recv={net_io.bytes_recv} Bytes\nProcess:\n{process_info}\n"
 
-		# Implementing Log Rotation
+		# Configure rotating file handler
+		log_filename = "system_info_log.txt"
+		handler = RotatingFileHandler(log_filename, maxBytes = 1_000_000, backupCount=5)
 
-		LOG_FILE = "system_info_log.txt"
-		MAX_LOG_SIZE = 1048576 # 1MB
+		# Set up the logger
+		logger = logging.getLogger("SystemLogger")
+		logger.setLevel(logging.INFO)
+		logger.addHandler(handler)
 
-		def rotate_log():
-			"""Rotates the log file if it exceeds MAX_LOG_SIZE."""
-			if os.path.exists(LOG_FILE) and os.path.getsize(LOG_FILE) >= MAX_LOG_SIZE:
-				os.rename(LOG_FILE, f"system_info_log_backup.txt")
-				print("[INFO] Log file rotated. Old logs saved as system_info_log_backup.txt")
+		def log_system_info():
+			cpu_usage = psutil.cpu_percent(interval=1)
+			mem_usage = psutil.virtual_memory().percent
+			active_process = sorted(psutil.process_iter(attrs=['pid', 'name']), key=lambda p: p.info['name'])
 
-		# Call this function before writing new log entries
-		rotate_log() 
+			log_entry = f"CPU: {cpu_usage}%, Memory: {mem_usage}%, Active Process: {len(active_process)}"
+			logger.info(log_entry)
 
-		# Write to the log file
-		log_file.write(log_entry)
+		# Logging Loop
+		max_cycles = 6
+		cycle_counter = 0
 
-		# Increment the cycle counter
-		cycle_count += 1
-
-		# Check if cycle count has reached 3
-		if cycle_count == 3:
-			# Prompt user for input to continue or stop
-			user_input = input("3 Cycles complete. Do you want to continue logging? (y/n): ").strip().lower()
-			if  user_input != 'y':
-				log_file.write(f"Logging stopped by user after {cycle_count} cycles.\n")
-				print("Logging Stopped.")
-				break # Exit the loop if user chooses not to continue
+		while cycle_counter < max_cycles:
+			log_system_info()
+			cycle_counter += 1
+			if cycle_counter == 3:
+				user_input = input("Do you want to continue logging? (y/n): ").strip().lower()
+				if user_input != ' y':
+					break
 
 		# After 6 cycles, stop automatically
 		if cycle_count == max_cycle:
-			log_file.write(f"Logging complete after {cycle_count} cycles.\n")
-			print("Logging completed after 6 cycles.")
-			break # Stop after 6 cycles
+		 log_file.write(f"Logging complete after {cycle_count} cycles.\n")
+		 print("Logging completed after 6 cycles.")
+		 break # Stop after 6 cycles
+
 
 		# Wait for the next log cycle (every 10 seconds)
 		time.sleep(10)
+
+		print("Logging complete. Check system_info_log.txt for results.")
