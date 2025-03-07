@@ -28,3 +28,1560 @@ CPU: 0.5%, Memory: 30.3%, Active Process: 270
 CPU: 0.5%, Memory: 30.3%, Active Process: 270
 CPU: 0.8%, Memory: 30.3%, Active Process: 270
 CPU: 0.8%, Memory: 30.3%, Active Process: 270
+CPU: 38.3%, Memory: 79.0%, Active Process: 524
+CPU: 28.8%, Memory: 78.8%, Active Process: 524
+CPU: 21.5%, Memory: 79.2%, Active Process: 524
+CPU: 25.0%, Memory: 79.5%, Active Process: 524
+CPU: 24.1%, Memory: 79.4%, Active Process: 524
+CPU: 18.8%, Memory: 79.2%, Active Process: 524
+CPU: 23.4%, Memory: 79.4%, Active Process: 526
+CPU: 23.4%, Memory: 79.4%, Active Process: 526
+CPU: 27.8%, Memory: 79.4%, Active Process: 526
+CPU: 27.8%, Memory: 79.4%, Active Process: 526
+CPU: 26.9%, Memory: 78.9%, Active Process: 526
+CPU: 26.9%, Memory: 78.9%, Active Process: 526
+CPU: 19.4%, Memory: 79.2%, Active Process: 526
+CPU: 19.4%, Memory: 79.2%, Active Process: 526
+CPU: 19.4%, Memory: 79.2%, Active Process: 526
+CPU: 30.0%, Memory: 79.4%, Active Process: 526
+CPU: 30.0%, Memory: 79.4%, Active Process: 526
+CPU: 30.0%, Memory: 79.4%, Active Process: 526
+CPU: 19.1%, Memory: 79.4%, Active Process: 526
+CPU: 19.1%, Memory: 79.4%, Active Process: 526
+CPU: 19.1%, Memory: 79.4%, Active Process: 526
+CPU: 19.4%, Memory: 78.7%, Active Process: 522
+CPU: 16.7%, Memory: 78.9%, Active Process: 522
+CPU: 14.4%, Memory: 78.6%, Active Process: 522
+CPU: 19.3%, Memory: 78.7%, Active Process: 522
+CPU: 19.3%, Memory: 78.7%, Active Process: 522
+CPU: 20.7%, Memory: 78.5%, Active Process: 522
+CPU: 20.7%, Memory: 78.5%, Active Process: 522
+CPU: 17.6%, Memory: 78.3%, Active Process: 522
+CPU: 17.6%, Memory: 78.3%, Active Process: 522
+CPU: 37.8%, Memory: 78.9%, Active Process: 463
+CPU: 35.4%, Memory: 78.8%, Active Process: 460
+CPU: 43.7%, Memory: 77.3%, Active Process: 463
+CPU: 16.9%, Memory: 77.0%, Active Process: 459
+CPU: 16.9%, Memory: 77.0%, Active Process: 459
+CPU: 15.9%, Memory: 77.0%, Active Process: 459
+CPU: 15.9%, Memory: 77.0%, Active Process: 459
+CPU: 12.7%, Memory: 76.9%, Active Process: 459
+CPU: 12.7%, Memory: 76.9%, Active Process: 459
+CPU: 13.9%, Memory: 77.0%, Active Process: 459
+CPU: 13.9%, Memory: 77.0%, Active Process: 459
+CPU: 14.4%, Memory: 76.9%, Active Process: 459
+CPU: 14.4%, Memory: 76.9%, Active Process: 459
+CPU: 18.2%, Memory: 76.9%, Active Process: 461
+CPU: 18.2%, Memory: 76.9%, Active Process: 461
+CPU: 13.4%, Memory: 76.9%, Active Process: 461
+CPU: 13.4%, Memory: 76.9%, Active Process: 461
+CPU: 13.4%, Memory: 76.9%, Active Process: 461
+CPU: 13.5%, Memory: 76.9%, Active Process: 461
+CPU: 13.5%, Memory: 76.9%, Active Process: 461
+CPU: 13.5%, Memory: 76.9%, Active Process: 461
+CPU: 13.7%, Memory: 76.8%, Active Process: 461
+CPU: 13.7%, Memory: 76.8%, Active Process: 461
+CPU: 13.7%, Memory: 76.8%, Active Process: 461
+CPU: 13.1%, Memory: 77.9%, Active Process: 462
+CPU: 13.1%, Memory: 77.9%, Active Process: 462
+CPU: 12.3%, Memory: 77.9%, Active Process: 462
+CPU: 14.0%, Memory: 77.8%, Active Process: 462
+CPU: 14.0%, Memory: 77.8%, Active Process: 462
+CPU: 14.4%, Memory: 77.8%, Active Process: 462
+CPU: 14.4%, Memory: 77.8%, Active Process: 462
+CPU: 12.2%, Memory: 77.8%, Active Process: 462
+CPU: 12.2%, Memory: 77.8%, Active Process: 462
+CPU: 13.3%, Memory: 77.6%, Active Process: 462
+CPU: 13.3%, Memory: 77.6%, Active Process: 462
+CPU: 13.6%, Memory: 77.9%, Active Process: 462
+CPU: 13.6%, Memory: 77.9%, Active Process: 462
+CPU: 13.3%, Memory: 77.8%, Active Process: 462
+CPU: 13.3%, Memory: 77.8%, Active Process: 462
+CPU: 14.6%, Memory: 77.8%, Active Process: 462
+CPU: 14.6%, Memory: 77.8%, Active Process: 462
+CPU: 14.6%, Memory: 77.8%, Active Process: 462
+CPU: 20.4%, Memory: 77.8%, Active Process: 462
+CPU: 20.4%, Memory: 77.8%, Active Process: 462
+CPU: 20.4%, Memory: 77.8%, Active Process: 462
+CPU: 12.2%, Memory: 77.8%, Active Process: 462
+CPU: 12.2%, Memory: 77.8%, Active Process: 462
+CPU: 12.2%, Memory: 77.8%, Active Process: 462
+CPU: 13.2%, Memory: 75.0%, Active Process: 482
+CPU: 18.5%, Memory: 74.9%, Active Process: 482
+CPU: 14.1%, Memory: 74.9%, Active Process: 483
+CPU: 16.6%, Memory: 74.6%, Active Process: 483
+CPU: 16.6%, Memory: 74.6%, Active Process: 483
+CPU: 16.3%, Memory: 74.4%, Active Process: 483
+CPU: 16.3%, Memory: 74.4%, Active Process: 483
+CPU: 14.6%, Memory: 74.5%, Active Process: 483
+CPU: 14.6%, Memory: 74.5%, Active Process: 483
+CPU: 17.5%, Memory: 74.4%, Active Process: 483
+CPU: 17.5%, Memory: 74.4%, Active Process: 483
+CPU: 25.9%, Memory: 74.2%, Active Process: 483
+CPU: 25.9%, Memory: 74.2%, Active Process: 483
+CPU: 14.1%, Memory: 75.2%, Active Process: 489
+CPU: 13.8%, Memory: 75.1%, Active Process: 489
+CPU: 14.0%, Memory: 75.1%, Active Process: 489
+CPU: 23.2%, Memory: 75.3%, Active Process: 489
+CPU: 23.2%, Memory: 75.3%, Active Process: 489
+CPU: 14.7%, Memory: 75.1%, Active Process: 489
+CPU: 14.7%, Memory: 75.1%, Active Process: 489
+CPU: 16.2%, Memory: 75.2%, Active Process: 489
+CPU: 16.2%, Memory: 75.2%, Active Process: 489
+2025-03-06 00:59:46 - CPU: 42.1%, Memory: 75.2%, Disk: 37.4%, Network: Sent=613064704 Bytes, Recv=5733127168 Bytes
+Process:
+PID: 0, Name: kernel_task, Status running, CPU Time: None
+PID: 1, Name: launchd, Status running, CPU Time: None
+PID: 91, Name: logd, Status running, CPU Time: None
+PID: 93, Name: UserEventAgent, Status running, CPU Time: None
+PID: 95, Name: fseventsd, Status running, CPU Time: None
+PID: 96, Name: mediaremoted, Status running, CPU Time: None
+PID: 99, Name: systemstats, Status running, CPU Time: None
+PID: 102, Name: configd, Status running, CPU Time: None
+PID: 104, Name: powerd, Status running, CPU Time: None
+PID: 105, Name: IOMFB_bics_daemo, Status running, CPU Time: None
+PID: 109, Name: remoted, Status running, CPU Time: None
+PID: 114, Name: watchdogd, Status running, CPU Time: None
+PID: 118, Name: mds, Status running, CPU Time: None
+PID: 120, Name: kernelmanagerd, Status running, CPU Time: None
+PID: 121, Name: diskarbitrationd, Status running, CPU Time: None
+PID: 125, Name: syslogd, Status running, CPU Time: None
+PID: 128, Name: thermalmonitord, Status running, CPU Time: None
+PID: 129, Name: opendirectoryd, Status running, CPU Time: None
+PID: 131, Name: apsd, Status running, CPU Time: None
+PID: 132, Name: launchservicesd, Status running, CPU Time: None
+PID: 133, Name: timed, Status running, CPU Time: None
+PID: 134, Name: usbmuxd, Status running, CPU Time: None
+PID: 135, Name: securityd, Status running, CPU Time: None
+PID: 137, Name: locationd, Status running, CPU Time: None
+PID: 138, Name: nesessionmanager, Status running, CPU Time: None
+PID: 140, Name: autofsd, Status running, CPU Time: None
+PID: 141, Name: dasd, Status running, CPU Time: None
+PID: 143, Name: distnoted, Status running, CPU Time: None
+PID: 145, Name: PerfPowerService, Status running, CPU Time: None
+PID: 147, Name: logind, Status running, CPU Time: None
+PID: 148, Name: revisiond, Status running, CPU Time: None
+PID: 149, Name: KernelEventAgent, Status running, CPU Time: None
+PID: 152, Name: bluetoothd, Status running, CPU Time: None
+PID: 153, Name: notifyd, Status running, CPU Time: None
+PID: 154, Name: sandboxd, Status running, CPU Time: None
+PID: 155, Name: corebrightnessd, Status running, CPU Time: None
+PID: 156, Name: AirPlayXPCHelper, Status running, CPU Time: None
+PID: 157, Name: com.apple.cmio.r, Status running, CPU Time: None
+PID: 158, Name: WindowServer, Status running, CPU Time: None
+PID: 159, Name: tccd, Status running, CPU Time: None
+PID: 161, Name: cfprefsd, Status running, CPU Time: None
+PID: 162, Name: loginwindow, Status running, CPU Time: pcputimes(user=9.411126272, system=5.353951744, children_user=0.0, children_system=0.0)
+PID: 164, Name: contextstored, Status running, CPU Time: None
+PID: 165, Name: runningboardd, Status running, CPU Time: None
+PID: 166, Name: lsd, Status running, CPU Time: None
+PID: 167, Name: coreservicesd, Status running, CPU Time: None
+PID: 169, Name: airportd, Status running, CPU Time: None
+PID: 170, Name: systemstatusd, Status running, CPU Time: None
+PID: 171, Name: coreaudiod, Status running, CPU Time: None
+PID: 178, Name: apfsd, Status running, CPU Time: None
+PID: 179, Name: nsurlsessiond, Status running, CPU Time: None
+PID: 180, Name: nehelper, Status running, CPU Time: None
+PID: 182, Name: analyticsd, Status running, CPU Time: None
+PID: 183, Name: eligibilityd, Status running, CPU Time: None
+PID: 187, Name: distnoted, Status running, CPU Time: None
+PID: 194, Name: distnoted, Status running, CPU Time: None
+PID: 195, Name: distnoted, Status running, CPU Time: None
+PID: 196, Name: authd, Status running, CPU Time: None
+PID: 206, Name: biomed, Status running, CPU Time: None
+PID: 209, Name: mDNSResponder, Status running, CPU Time: None
+PID: 210, Name: TouchBarServer, Status running, CPU Time: None
+PID: 215, Name: symptomsd, Status running, CPU Time: None
+PID: 216, Name: socketfilterfw, Status running, CPU Time: None
+PID: 219, Name: sysextd, Status running, CPU Time: None
+PID: 264, Name: mDNSResponderHel, Status running, CPU Time: None
+PID: 265, Name: com.apple.CodeSi, Status running, CPU Time: None
+PID: 271, Name: distnoted, Status running, CPU Time: None
+PID: 277, Name: com.apple.audio., Status running, CPU Time: None
+PID: 280, Name: appleeventsd, Status running, CPU Time: None
+PID: 281, Name: syspolicyd, Status running, CPU Time: None
+PID: 282, Name: gamepolicyd, Status running, CPU Time: None
+PID: 285, Name: WirelessRadioMan, Status running, CPU Time: None
+PID: 291, Name: audioclocksyncd, Status running, CPU Time: None
+PID: 292, Name: distnoted, Status running, CPU Time: None
+PID: 295, Name: modelmanagerd, Status running, CPU Time: None
+PID: 299, Name: appleh13camerad, Status running, CPU Time: None
+PID: 300, Name: cameracaptured, Status running, CPU Time: None
+PID: 301, Name: UVCAssistant, Status running, CPU Time: None
+PID: 303, Name: celapid, Status running, CPU Time: None
+PID: 307, Name: com.Cvnt.ce.Fire, Status running, CPU Time: None
+PID: 309, Name: searchpartyd, Status running, CPU Time: None
+PID: 310, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 313, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 314, Name: com.apple.AppleU, Status running, CPU Time: None
+PID: 315, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 318, Name: mds_stores, Status running, CPU Time: None
+PID: 323, Name: suhelperd, Status running, CPU Time: None
+PID: 325, Name: distnoted, Status running, CPU Time: None
+PID: 334, Name: BTLEServer, Status running, CPU Time: None
+PID: 338, Name: distnoted, Status running, CPU Time: None
+PID: 341, Name: distnoted, Status running, CPU Time: None
+PID: 350, Name: distnoted, Status running, CPU Time: None
+PID: 353, Name: systemstats, Status running, CPU Time: None
+PID: 363, Name: wifianalyticsd, Status running, CPU Time: None
+PID: 368, Name: ceclassifierd, Status running, CPU Time: None
+PID: 370, Name: bsdtar, Status running, CPU Time: None
+PID: 371, Name: oahd, Status running, CPU Time: None
+PID: 372, Name: adid, Status running, CPU Time: None
+PID: 373, Name: cewd, Status running, CPU Time: None
+PID: 379, Name: coreauthd, Status running, CPU Time: None
+PID: 380, Name: ctkahp, Status running, CPU Time: None
+PID: 389, Name: ctkd, Status running, CPU Time: None
+PID: 393, Name: netbiosd, Status running, CPU Time: None
+PID: 394, Name: rtcreportingd, Status running, CPU Time: None
+PID: 396, Name: IOUserBluetoothS, Status running, CPU Time: None
+PID: 404, Name: trustd, Status running, CPU Time: None
+PID: 410, Name: distnoted, Status running, CPU Time: pcputimes(user=11.086984192, system=2.777708288, children_user=0.0, children_system=0.0)
+PID: 412, Name: distnoted, Status running, CPU Time: None
+PID: 413, Name: cfprefsd, Status running, CPU Time: pcputimes(user=11.769572352, system=13.413747712, children_user=0.0, children_system=0.0)
+PID: 414, Name: UserEventAgent, Status running, CPU Time: pcputimes(user=7.1222272, system=3.264165888, children_user=0.0, children_system=0.0)
+PID: 416, Name: ContinuityCaptureAgent, Status running, CPU Time: pcputimes(user=4.912740864, system=3.285876224, children_user=0.0, children_system=0.0)
+PID: 420, Name: knowledge-agent, Status running, CPU Time: pcputimes(user=10.619121664, system=3.57409664, children_user=0.0, children_system=0.0)
+PID: 421, Name: ContextStoreAgent, Status running, CPU Time: pcputimes(user=4.699471872, system=2.526478592, children_user=0.0, children_system=0.0)
+PID: 423, Name: ControlCenter, Status running, CPU Time: pcputimes(user=201.103753216, system=25.567686656, children_user=0.0, children_system=0.0)
+PID: 424, Name: distnoted, Status running, CPU Time: None
+PID: 426, Name: CoreServicesUIAgent, Status running, CPU Time: pcputimes(user=2.867183616, system=3.437099008, children_user=0.0, children_system=0.0)
+PID: 427, Name: universalaccessd, Status running, CPU Time: pcputimes(user=1.11808, system=1.22435264, children_user=0.0, children_system=0.0)
+PID: 428, Name: pboard, Status running, CPU Time: pcputimes(user=0.138952256, system=0.212899632, children_user=0.0, children_system=0.0)
+PID: 431, Name: lsd, Status running, CPU Time: pcputimes(user=3.115547648, system=3.330745856, children_user=0.0, children_system=0.0)
+PID: 433, Name: containermanagerd, Status running, CPU Time: pcputimes(user=2.49736704, system=2.297691392, children_user=0.0, children_system=0.0)
+PID: 434, Name: secd, Status running, CPU Time: pcputimes(user=15.091331072, system=5.887153664, children_user=0.0, children_system=0.0)
+PID: 435, Name: rapportd, Status running, CPU Time: pcputimes(user=3.45825024, system=2.770060032, children_user=0.0, children_system=0.0)
+PID: 438, Name: nsurlsessiond, Status running, CPU Time: pcputimes(user=13.623323648, system=6.504528384, children_user=0.0, children_system=0.0)
+PID: 440, Name: ControlStrip, Status running, CPU Time: pcputimes(user=1.874831104, system=1.416999808, children_user=0.0, children_system=0.0)
+PID: 441, Name: usernoted, Status running, CPU Time: pcputimes(user=3.96642304, system=2.819900928, children_user=0.0, children_system=0.0)
+PID: 444, Name: exchangesyncd, Status running, CPU Time: pcputimes(user=3.484768256, system=3.871403264, children_user=0.0, children_system=0.0)
+PID: 445, Name: lockoutagent, Status running, CPU Time: pcputimes(user=1.619168128, system=1.988388608, children_user=0.0, children_system=0.0)
+PID: 448, Name: filecoordination, Status running, CPU Time: None
+PID: 451, Name: usernotificationsd, Status running, CPU Time: pcputimes(user=2.393209088, system=1.581624832, children_user=0.0, children_system=0.0)
+PID: 455, Name: suggestd, Status running, CPU Time: pcputimes(user=39.457148928, system=13.194913792, children_user=0.0, children_system=0.0)
+PID: 456, Name: tccd, Status running, CPU Time: pcputimes(user=12.277448704, system=10.92056064, children_user=0.0, children_system=0.0)
+PID: 457, Name: callservicesd, Status running, CPU Time: pcputimes(user=4.07001472, system=2.783752704, children_user=0.0, children_system=0.0)
+PID: 460, Name: heard, Status running, CPU Time: pcputimes(user=4.27880576, system=3.3136384, children_user=0.0, children_system=0.0)
+PID: 462, Name: audioaccessoryd, Status running, CPU Time: pcputimes(user=2.327323392, system=1.93254784, children_user=0.0, children_system=0.0)
+PID: 463, Name: WiFiAgent, Status running, CPU Time: pcputimes(user=19.108435968, system=2.132775808, children_user=0.0, children_system=0.0)
+PID: 464, Name: accountsd, Status running, CPU Time: pcputimes(user=14.465897472, system=6.120247808, children_user=0.0, children_system=0.0)
+PID: 466, Name: fileproviderd, Status running, CPU Time: pcputimes(user=41.512624128, system=18.217426944, children_user=0.0, children_system=0.0)
+PID: 467, Name: identityservicesd, Status running, CPU Time: pcputimes(user=12.065098752, system=7.803380224, children_user=0.0, children_system=0.0)
+PID: 468, Name: trustd, Status running, CPU Time: pcputimes(user=52.882808832, system=7.079877632, children_user=0.0, children_system=0.0)
+PID: 476, Name: imklaunchagent, Status running, CPU Time: pcputimes(user=0.073093832, system=0.151268336, children_user=0.0, children_system=0.0)
+PID: 478, Name: WindowManager, Status running, CPU Time: pcputimes(user=43.232387072, system=5.996050432, children_user=0.0, children_system=0.0)
+PID: 481, Name: assistantd, Status running, CPU Time: pcputimes(user=5.593975296, system=4.861578752, children_user=0.0, children_system=0.0)
+PID: 483, Name: replayd, Status running, CPU Time: pcputimes(user=3.808503808, system=8.371177472, children_user=0.0, children_system=0.0)
+PID: 486, Name: nearbyd, Status running, CPU Time: None
+PID: 490, Name: sharingd, Status running, CPU Time: pcputimes(user=15.263506432, system=5.715868672, children_user=0.0, children_system=0.0)
+PID: 491, Name: triald, Status running, CPU Time: pcputimes(user=5.071747072, system=5.405913088, children_user=0.0, children_system=0.0)
+PID: 493, Name: coreauthd, Status running, CPU Time: pcputimes(user=0.50369264, system=0.820318272, children_user=0.0, children_system=0.0)
+PID: 495, Name: cloudd, Status running, CPU Time: pcputimes(user=53.506514944, system=18.939836416, children_user=0.0, children_system=0.0)
+PID: 496, Name: BiomeAgent, Status running, CPU Time: pcputimes(user=10.821067776, system=10.522033152, children_user=0.0, children_system=0.0)
+PID: 503, Name: PAH_Extension, Status running, CPU Time: pcputimes(user=0.708631872, system=0.723654656, children_user=0.0, children_system=0.0)
+PID: 505, Name: EmojiFunctionRowIM_Extension, Status running, CPU Time: pcputimes(user=0.809276416, system=0.81594944, children_user=0.0, children_system=0.0)
+PID: 506, Name: aned, Status running, CPU Time: None
+PID: 510, Name: Dock, Status running, CPU Time: pcputimes(user=11.13731072, system=6.699156992, children_user=0.0, children_system=0.0)
+PID: 512, Name: SystemUIServer, Status running, CPU Time: pcputimes(user=1.202433408, system=1.205327616, children_user=0.0, children_system=0.0)
+PID: 513, Name: Finder, Status running, CPU Time: pcputimes(user=29.2018176, system=15.411375104, children_user=0.0, children_system=0.0)
+PID: 516, Name: awdd, Status running, CPU Time: None
+PID: 517, Name: homed, Status running, CPU Time: pcputimes(user=6.745168896, system=4.911351808, children_user=0.0, children_system=0.0)
+PID: 520, Name: sharedfilelistd, Status running, CPU Time: pcputimes(user=0.33476112, system=0.388133056, children_user=0.0, children_system=0.0)
+PID: 521, Name: NotificationCenter, Status running, CPU Time: pcputimes(user=50.749333504, system=18.813382656, children_user=0.0, children_system=0.0)
+PID: 527, Name: familycircled, Status running, CPU Time: pcputimes(user=4.152352256, system=1.164281216, children_user=0.0, children_system=0.0)
+PID: 528, Name: StatusKitAgent, Status running, CPU Time: pcputimes(user=2.344035328, system=1.431891968, children_user=0.0, children_system=0.0)
+PID: 530, Name: WallpaperAgent, Status running, CPU Time: pcputimes(user=0.959824192, system=1.152569728, children_user=0.0, children_system=0.0)
+PID: 531, Name: akd, Status running, CPU Time: pcputimes(user=2.697906176, system=2.262014464, children_user=0.0, children_system=0.0)
+PID: 533, Name: imagent, Status running, CPU Time: pcputimes(user=13.731216384, system=6.033065472, children_user=0.0, children_system=0.0)
+PID: 539, Name: chronod, Status running, CPU Time: pcputimes(user=16.81731584, system=5.835609088, children_user=0.0, children_system=0.0)
+PID: 542, Name: automountd, Status running, CPU Time: None
+PID: 543, Name: bluetoothuserd, Status running, CPU Time: pcputimes(user=0.903876544, system=0.865161088, children_user=0.0, children_system=0.0)
+PID: 544, Name: ViewBridgeAuxiliary, Status running, CPU Time: pcputimes(user=3.489449472, system=2.015403904, children_user=0.0, children_system=0.0)
+PID: 545, Name: useractivityd, Status running, CPU Time: pcputimes(user=1.482511488, system=1.29349888, children_user=0.0, children_system=0.0)
+PID: 546, Name: mediaremoteagent, Status running, CPU Time: pcputimes(user=0.116948624, system=0.15307184, children_user=0.0, children_system=0.0)
+PID: 547, Name: AMPDeviceDiscoveryAgent, Status running, CPU Time: pcputimes(user=0.065313876, system=0.110636704, children_user=0.0, children_system=0.0)
+PID: 553, Name: seserviced, Status running, CPU Time: pcputimes(user=0.05298996, system=0.02753454, children_user=0.0, children_system=0.0)
+PID: 560, Name: Surfshark Finder Extension, Status running, CPU Time: pcputimes(user=0.269820416, system=0.3396112, children_user=0.0, children_system=0.0)
+PID: 561, Name: fontd, Status running, CPU Time: pcputimes(user=1.065933376, system=0.575903744, children_user=0.0, children_system=0.0)
+PID: 562, Name: WallpaperImageExtension, Status running, CPU Time: pcputimes(user=0.34731376, system=0.113051664, children_user=0.0, children_system=0.0)
+PID: 564, Name: corespotlightd, Status running, CPU Time: pcputimes(user=29.488822272, system=18.672871424, children_user=0.0, children_system=0.0)
+PID: 565, Name: fontworker, Status running, CPU Time: pcputimes(user=0.226321216, system=0.390690912, children_user=0.0, children_system=0.0)
+PID: 566, Name: avconferenced, Status running, CPU Time: pcputimes(user=0.320024, system=0.635370304, children_user=0.0, children_system=0.0)
+PID: 567, Name: DisplayLinkXpcService, Status running, CPU Time: pcputimes(user=0.006566708, system=0.006481208, children_user=0.0, children_system=0.0)
+PID: 568, Name: corespeechd, Status running, CPU Time: pcputimes(user=198.263226368, system=51.426988032, children_user=0.0, children_system=0.0)
+PID: 575, Name: Siri, Status running, CPU Time: pcputimes(user=29.874669568, system=12.542946304, children_user=0.0, children_system=0.0)
+PID: 576, Name: icdd, Status running, CPU Time: pcputimes(user=0.073657, system=0.075345208, children_user=0.0, children_system=0.0)
+PID: 580, Name: Covenant Eyes, Status running, CPU Time: pcputimes(user=82.873245696, system=29.711765504, children_user=0.0, children_system=0.0)
+PID: 583, Name: AirPlayUIAgent, Status running, CPU Time: pcputimes(user=0.295247872, system=0.41929008, children_user=0.0, children_system=0.0)
+PID: 584, Name: diagnostics_agent, Status running, CPU Time: pcputimes(user=0.364575616, system=0.615565632, children_user=0.0, children_system=0.0)
+PID: 585, Name: TextInputMenuAgent, Status running, CPU Time: pcputimes(user=1.385234816, system=1.09600384, children_user=0.0, children_system=0.0)
+PID: 589, Name: ctkahp, Status running, CPU Time: pcputimes(user=0.055891168, system=0.050202208, children_user=0.0, children_system=0.0)
+PID: 591, Name: com.apple.CloudDocs.iCloudDriveFileProvider, Status running, CPU Time: pcputimes(user=2.138944896, system=0.750148352, children_user=0.0, children_system=0.0)
+PID: 592, Name: figma_agent, Status running, CPU Time: pcputimes(user=15.304992768, system=15.357114368, children_user=0.0, children_system=0.0)
+PID: 593, Name: Spotlight, Status running, CPU Time: pcputimes(user=7.185494528, system=3.965727488, children_user=0.0, children_system=0.0)
+PID: 595, Name: networkserviceproxy, Status running, CPU Time: pcputimes(user=5.605408256, system=3.77473536, children_user=0.0, children_system=0.0)
+PID: 598, Name: duetexpertd, Status running, CPU Time: pcputimes(user=28.896944128, system=22.13261312, children_user=0.0, children_system=0.0)
+PID: 602, Name: DisplayLinkUserAgent, Status running, CPU Time: pcputimes(user=4.429613568, system=3.615331072, children_user=0.0, children_system=0.0)
+PID: 603, Name: com.apple.dock.extra, Status running, CPU Time: pcputimes(user=6.37256192, system=1.643347328, children_user=0.0, children_system=0.0)
+PID: 608, Name: commerce, Status running, CPU Time: pcputimes(user=0.195806544, system=0.19920088, children_user=0.0, children_system=0.0)
+PID: 609, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=3.670314752, system=1.594075264, children_user=0.0, children_system=0.0)
+PID: 615, Name: parentalcontrols, Status running, CPU Time: None
+PID: 621, Name: CursorUIViewService, Status running, CPU Time: pcputimes(user=4.82542336, system=2.724507648, children_user=0.0, children_system=0.0)
+PID: 623, Name: BatteriesAvocadoWidgetExtension, Status running, CPU Time: pcputimes(user=9.6603648, system=1.917854464, children_user=0.0, children_system=0.0)
+PID: 625, Name: Surfshark, Status running, CPU Time: pcputimes(user=388.665966592, system=59.333791744, children_user=0.0, children_system=0.0)
+PID: 626, Name: CalendarWidgetExtension, Status running, CPU Time: pcputimes(user=5.365621248, system=0.209768256, children_user=0.0, children_system=0.0)
+PID: 629, Name: WorldClockWidget, Status running, CPU Time: pcputimes(user=2.315355136, system=0.099248544, children_user=0.0, children_system=0.0)
+PID: 630, Name: UIKitSystem, Status running, CPU Time: pcputimes(user=1.326392832, system=1.320122624, children_user=0.0, children_system=0.0)
+PID: 631, Name: NewsTag, Status running, CPU Time: pcputimes(user=23.896068096, system=6.460199936, children_user=0.0, children_system=0.0)
+PID: 632, Name: ScreenTimeWidgetExtension, Status running, CPU Time: pcputimes(user=3.274352896, system=0.97546752, children_user=0.0, children_system=0.0)
+PID: 638, Name: maild, Status running, CPU Time: pcputimes(user=17.106166784, system=5.499388416, children_user=0.0, children_system=0.0)
+PID: 646, Name: BTLEServerAgent, Status running, CPU Time: pcputimes(user=0.064139, system=0.064453168, children_user=0.0, children_system=0.0)
+PID: 652, Name: UniversalControl, Status running, CPU Time: pcputimes(user=51.817398272, system=32.86623232, children_user=0.0, children_system=0.0)
+PID: 653, Name: mdbulkimport, Status running, CPU Time: pcputimes(user=3.552766976, system=3.084281344, children_user=0.0, children_system=0.0)
+PID: 656, Name: cewd, Status running, CPU Time: pcputimes(user=0.001421041, system=0.003340958, children_user=0.0, children_system=0.0)
+PID: 670, Name: fairplayd, Status running, CPU Time: None
+PID: 671, Name: milod, Status running, CPU Time: pcputimes(user=3.64148992, system=0.985552448, children_user=0.0, children_system=0.0)
+PID: 697, Name: wifivelocityd, Status running, CPU Time: None
+PID: 701, Name: storedownloadd, Status running, CPU Time: pcputimes(user=0.068391504, system=0.064924752, children_user=0.0, children_system=0.0)
+PID: 730, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=3.12094464, system=1.889286016, children_user=0.0, children_system=0.0)
+PID: 734, Name: CrashReporterSup, Status running, CPU Time: None
+PID: 750, Name: SubmitDiagInfo, Status running, CPU Time: None
+PID: 802, Name: SiriNCService, Status running, CPU Time: pcputimes(user=5.079337984, system=2.18784256, children_user=0.0, children_system=0.0)
+PID: 851, Name: contactsd, Status running, CPU Time: pcputimes(user=258.679242752, system=106.023862272, children_user=0.0, children_system=0.0)
+PID: 863, Name: SafariBookmarksSyncAgent, Status running, CPU Time: pcputimes(user=2.195523328, system=1.569759616, children_user=0.0, children_system=0.0)
+PID: 870, Name: distnoted, Status running, CPU Time: None
+PID: 881, Name: AppleSpell, Status running, CPU Time: pcputimes(user=24.41473024, system=8.235131392, children_user=0.0, children_system=0.0)
+PID: 931, Name: Safari, Status running, CPU Time: pcputimes(user=237.50688768, system=91.938742272, children_user=0.0, children_system=0.0)
+PID: 932, Name: com.apple.Safari.History, Status running, CPU Time: pcputimes(user=11.460324352, system=1.401852928, children_user=0.0, children_system=0.0)
+PID: 934, Name: passd, Status running, CPU Time: pcputimes(user=0.590303936, system=1.139543552, children_user=0.0, children_system=0.0)
+PID: 937, Name: CVMServer, Status running, CPU Time: None
+PID: 940, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=127.5736064, system=65.753219072, children_user=0.0, children_system=0.0)
+PID: 943, Name: com.apple.Safari.SearchHelper, Status running, CPU Time: pcputimes(user=1.163807616, system=0.807614016, children_user=0.0, children_system=0.0)
+PID: 957, Name: distnoted, Status running, CPU Time: None
+PID: 1013, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=0.104466832, system=0.116952416, children_user=0.0, children_system=0.0)
+PID: 1021, Name: PDF Reader Pro, Status running, CPU Time: pcputimes(user=2792.782299136, system=602.203684864, children_user=0.0, children_system=0.0)
+PID: 1025, Name: mdwrite, Status running, CPU Time: pcputimes(user=0.020116958, system=0.027884458, children_user=0.0, children_system=0.0)
+PID: 1039, Name: fbahelperd, Status running, CPU Time: None
+PID: 1043, Name: peopled, Status running, CPU Time: pcputimes(user=4.656854016, system=1.193939968, children_user=0.0, children_system=0.0)
+PID: 1045, Name: Messages Assistant Extension, Status running, CPU Time: pcputimes(user=1.12579776, system=0.339065504, children_user=0.0, children_system=0.0)
+PID: 1049, Name: audiomxd, Status running, CPU Time: None
+PID: 1050, Name: searchpartyuseragent, Status running, CPU Time: pcputimes(user=19.707631616, system=9.676255232, children_user=0.0, children_system=0.0)
+PID: 1061, Name: com.apple.appkit.xpc.openAndSavePanelService, Status running, CPU Time: pcputimes(user=0.944949696, system=1.094509568, children_user=0.0, children_system=0.0)
+PID: 1136, Name: PowerChime, Status running, CPU Time: pcputimes(user=0.38164624, system=0.650134656, children_user=0.0, children_system=0.0)
+PID: 1138, Name: com.apple.Ambien, Status running, CPU Time: None
+PID: 1141, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1143, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1441, Name: com.apple.hiservices-xpcservice, Status running, CPU Time: pcputimes(user=10.692150272, system=12.083644416, children_user=0.0, children_system=0.0)
+PID: 1444, Name: com.apple.PassKit.PaymentAuthorizationUIExtension, Status running, CPU Time: pcputimes(user=3.585800704, system=1.283917312, children_user=0.0, children_system=0.0)
+PID: 1475, Name: audioanalyticsd, Status running, CPU Time: None
+PID: 1523, Name: com.apple.Safari.SandboxBroker, Status running, CPU Time: pcputimes(user=0.641601984, system=0.879951296, children_user=0.0, children_system=0.0)
+PID: 1525, Name: LocalAuthenticationRemoteService, Status running, CPU Time: pcputimes(user=0.727729152, system=0.821742016, children_user=0.0, children_system=0.0)
+PID: 1569, Name: Messages, Status running, CPU Time: pcputimes(user=6.230409728, system=5.537056256, children_user=0.0, children_system=0.0)
+PID: 1784, Name: DiskUnmountWatcher, Status running, CPU Time: pcputimes(user=0.0185195, system=0.034560792, children_user=0.0, children_system=0.0)
+PID: 1793, Name: universalAccessAuthWarn, Status running, CPU Time: pcputimes(user=0.577528256, system=0.717718976, children_user=0.0, children_system=0.0)
+PID: 1807, Name: taskgated, Status running, CPU Time: None
+PID: 1862, Name: backupd, Status running, CPU Time: None
+PID: 1885, Name: NowPlayingTouchUI, Status running, CPU Time: pcputimes(user=2.079172352, system=1.629453568, children_user=0.0, children_system=0.0)
+PID: 1981, Name: iCUEUpdateServic, Status running, CPU Time: None
+PID: 2006, Name: VMware Fusion, Status running, CPU Time: pcputimes(user=145.371578368, system=64.659566592, children_user=0.0, children_system=0.0)
+PID: 2010, Name: iCUE, Status running, CPU Time: pcputimes(user=529.972723712, system=509.033873408, children_user=0.0, children_system=0.0)
+PID: 2012, Name: com.apple.ctkpcscd, Status running, CPU Time: pcputimes(user=1.492118144, system=2.009376512, children_user=0.0, children_system=0.0)
+PID: 2015, Name: VMware Fusion Start Menu, Status running, CPU Time: pcputimes(user=0.198937712, system=0.32386608, children_user=0.0, children_system=0.0)
+PID: 2021, Name: crashpad_handler, Status running, CPU Time: pcputimes(user=0.002801208, system=0.002827333, children_user=0.0, children_system=0.0)
+PID: 2024, Name: VMware Fusion Services, Status running, CPU Time: pcputimes(user=0.004687708, system=0.004579125, children_user=0.0, children_system=0.0)
+PID: 2079, Name: vmnet-bridge, Status running, CPU Time: None
+PID: 2121, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2125, Name: InternetSharing, Status running, CPU Time: None
+PID: 2138, Name: vmnet-natd, Status running, CPU Time: None
+PID: 2140, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2142, Name: vmware-usbarbitr, Status running, CPU Time: None
+PID: 2197, Name: USBAgent, Status running, CPU Time: pcputimes(user=0.037182084, system=0.013850708, children_user=0.0, children_system=0.0)
+PID: 2253, Name: coreduetd, Status running, CPU Time: None
+PID: 2254, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=11.714127872, system=6.064530432, children_user=0.0, children_system=0.0)
+PID: 2350, Name: contentlinkingd, Status running, CPU Time: pcputimes(user=0.434430912, system=0.36634528, children_user=0.0, children_system=0.0)
+PID: 2351, Name: inputanalyticsd, Status running, CPU Time: pcputimes(user=0.220221872, system=0.308184256, children_user=0.0, children_system=0.0)
+PID: 2546, Name: mmaintenanced, Status running, CPU Time: None
+PID: 2623, Name: distnoted, Status running, CPU Time: None
+PID: 2939, Name: com.apple.mail.SpotlightIndexExtension, Status running, CPU Time: pcputimes(user=0.124961208, system=0.321062048, children_user=0.0, children_system=0.0)
+PID: 3041, Name: distnoted, Status running, CPU Time: None
+PID: 3222, Name: QmlRenderer, Status running, CPU Time: pcputimes(user=427.455905792, system=617.60372736, children_user=0.0, children_system=0.0)
+PID: 3268, Name: storeuid, Status running, CPU Time: pcputimes(user=0.265161456, system=0.424766464, children_user=0.0, children_system=0.0)
+PID: 3294, Name: diskimagesiod, Status running, CPU Time: None
+PID: 3517, Name: distnoted, Status running, CPU Time: None
+PID: 3530, Name: Mail, Status running, CPU Time: pcputimes(user=26.418814976, system=12.177903616, children_user=0.0, children_system=0.0)
+PID: 3535, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=0.512400544, system=0.674093376, children_user=0.0, children_system=0.0)
+PID: 3536, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.433755904, system=0.820004736, children_user=0.0, children_system=0.0)
+PID: 3538, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=0.22349912, system=0.200933504, children_user=0.0, children_system=0.0)
+PID: 3546, Name: distnoted, Status running, CPU Time: None
+PID: 3547, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 3678, Name: proactived, Status running, CPU Time: pcputimes(user=0.460275712, system=0.451953952, children_user=0.0, children_system=0.0)
+PID: 3706, Name: neagent, Status running, CPU Time: pcputimes(user=0.518506528, system=0.230972, children_user=0.0, children_system=0.0)
+PID: 3761, Name: CoreLocationAgent, Status running, CPU Time: pcputimes(user=0.187387536, system=0.489700544, children_user=0.0, children_system=0.0)
+PID: 3762, Name: syncdefaultsd, Status running, CPU Time: pcputimes(user=0.466456448, system=0.465931872, children_user=0.0, children_system=0.0)
+PID: 3763, Name: AMPLibraryAgent, Status running, CPU Time: pcputimes(user=13.569298432, system=4.50421248, children_user=0.0, children_system=0.0)
+PID: 3788, Name: UsageTrackingAgent, Status running, CPU Time: pcputimes(user=1.94949376, system=1.233885056, children_user=0.0, children_system=0.0)
+PID: 3796, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 3856, Name: Music, Status running, CPU Time: pcputimes(user=8.467891712, system=4.293478912, children_user=0.0, children_system=0.0)
+PID: 3868, Name: VisualizerService_x86, Status running, CPU Time: pcputimes(user=0.401426176, system=0.935391104, children_user=0.0, children_system=0.0)
+PID: 3869, Name: VisualizerService, Status running, CPU Time: pcputimes(user=0.126905584, system=0.227512368, children_user=0.0, children_system=0.0)
+PID: 3934, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.15530392, system=0.23033112, children_user=0.0, children_system=0.0)
+PID: 3942, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.238889088, system=0.354549504, children_user=0.0, children_system=0.0)
+PID: 4011, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=0.044904332, system=0.03286975, children_user=0.0, children_system=0.0)
+PID: 4098, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 4148, Name: AssetCacheLocatorService, Status running, CPU Time: pcputimes(user=0.123802336, system=0.152219536, children_user=0.0, children_system=0.0)
+PID: 4230, Name: amsaccountsd, Status running, CPU Time: pcputimes(user=0.432647456, system=0.58722144, children_user=0.0, children_system=0.0)
+PID: 4231, Name: containermanager, Status running, CPU Time: None
+PID: 4246, Name: Discord, Status running, CPU Time: pcputimes(user=11.595862016, system=8.10629632, children_user=0.0, children_system=0.0)
+PID: 4248, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.006127583, system=0.02482804, children_user=0.0, children_system=0.0)
+PID: 4250, Name: Discord Helper (GPU), Status running, CPU Time: pcputimes(user=1.568199424, system=1.038993856, children_user=0.0, children_system=0.0)
+PID: 4251, Name: Discord Helper, Status running, CPU Time: pcputimes(user=1.271113856, system=0.990082368, children_user=0.0, children_system=0.0)
+PID: 4256, Name: Discord Helper (Renderer), Status running, CPU Time: pcputimes(user=191.382110208, system=100.334583808, children_user=0.0, children_system=0.0)
+PID: 4270, Name: Discord Helper, Status running, CPU Time: pcputimes(user=0.50999216, system=0.307133216, children_user=0.0, children_system=0.0)
+PID: 4271, Name: Discord Helper (Plugin), Status running, CPU Time: pcputimes(user=0.480757888, system=0.301089984, children_user=0.0, children_system=0.0)
+PID: 4288, Name: DockHelper, Status running, CPU Time: pcputimes(user=0.379095328, system=0.43942432, children_user=0.0, children_system=0.0)
+PID: 4304, Name: AppSSOAgent, Status running, CPU Time: pcputimes(user=0.150287712, system=0.301233792, children_user=0.0, children_system=0.0)
+PID: 4305, Name: AppSSODaemon, Status running, CPU Time: None
+PID: 4309, Name: biometrickitd, Status running, CPU Time: None
+PID: 4312, Name: parsecd, Status running, CPU Time: pcputimes(user=0.484781376, system=0.820910656, children_user=0.0, children_system=0.0)
+PID: 4314, Name: itunescloudd, Status running, CPU Time: pcputimes(user=0.262804912, system=0.276468544, children_user=0.0, children_system=0.0)
+PID: 4342, Name: bird, Status running, CPU Time: pcputimes(user=17.424979968, system=11.202637824, children_user=0.0, children_system=0.0)
+PID: 4343, Name: usermanagerd, Status running, CPU Time: None
+PID: 4345, Name: NewsScoringService, Status running, CPU Time: pcputimes(user=0.083724544, system=0.195018464, children_user=0.0, children_system=0.0)
+PID: 4350, Name: Keychain Circle Notification, Status running, CPU Time: pcputimes(user=0.158121952, system=0.192196672, children_user=0.0, children_system=0.0)
+PID: 4354, Name: OSDUIHelper, Status running, CPU Time: pcputimes(user=0.367890368, system=0.437362432, children_user=0.0, children_system=0.0)
+PID: 4355, Name: secinitd, Status running, CPU Time: pcputimes(user=0.326483008, system=0.298033088, children_user=0.0, children_system=0.0)
+PID: 4356, Name: wifip2pd, Status running, CPU Time: None
+PID: 4371, Name: ctkd, Status running, CPU Time: pcputimes(user=0.103251504, system=0.138857712, children_user=0.0, children_system=0.0)
+PID: 4373, Name: findmylocateagent, Status running, CPU Time: pcputimes(user=0.237485328, system=0.369221344, children_user=0.0, children_system=0.0)
+PID: 4374, Name: securityd_system, Status running, CPU Time: None
+PID: 4376, Name: photolibraryd, Status running, CPU Time: pcputimes(user=0.904580928, system=0.802853504, children_user=0.0, children_system=0.0)
+PID: 4377, Name: ScopedBookmarkAgent, Status running, CPU Time: pcputimes(user=0.149323424, system=0.131648872, children_user=0.0, children_system=0.0)
+PID: 4378, Name: mediaanalysisd, Status running, CPU Time: pcputimes(user=28.180148224, system=4.975038976, children_user=0.0, children_system=0.0)
+PID: 4418, Name: calaccessd, Status running, CPU Time: pcputimes(user=3.754175488, system=1.765968512, children_user=0.0, children_system=0.0)
+PID: 4464, Name: mobileactivation, Status running, CPU Time: None
+PID: 4478, Name: AppPredictionIntentsHelperService, Status running, CPU Time: pcputimes(user=1.645618304, system=1.761909376, children_user=0.0, children_system=0.0)
+PID: 4486, Name: linkd, Status running, CPU Time: pcputimes(user=1.875042048, system=1.176919296, children_user=0.0, children_system=0.0)
+PID: 4521, Name: com.apple.quicklook.ThumbnailsAgent, Status running, CPU Time: pcputimes(user=1.212096512, system=0.876190848, children_user=0.0, children_system=0.0)
+PID: 4558, Name: youtube-music-desktop-app, Status running, CPU Time: pcputimes(user=54.986149888, system=16.179288064, children_user=0.0, children_system=0.0)
+PID: 4591, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.034000708, system=0.014767875, children_user=0.0, children_system=0.0)
+PID: 4595, Name: YouTube Music Desktop App Helper (GPU), Status running, CPU Time: pcputimes(user=195.860463616, system=63.766605824, children_user=0.0, children_system=0.0)
+PID: 4598, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=8.169865216, system=5.250290688, children_user=0.0, children_system=0.0)
+PID: 4603, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=2.122282112, system=0.427322624, children_user=0.0, children_system=0.0)
+PID: 4610, Name: BackgroundTaskManagementAgent, Status running, CPU Time: pcputimes(user=0.127081792, system=0.207755296, children_user=0.0, children_system=0.0)
+PID: 4618, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=554.491379712, system=58.617884672, children_user=0.0, children_system=0.0)
+PID: 4631, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=3.441251328, system=0.81312864, children_user=0.0, children_system=0.0)
+PID: 4632, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=62.295539712, system=22.594891776, children_user=0.0, children_system=0.0)
+PID: 4635, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=62.071144448, system=80.62783488, children_user=0.0, children_system=0.0)
+PID: 4777, Name: recentsd, Status running, CPU Time: pcputimes(user=0.051652792, system=0.047847792, children_user=0.0, children_system=0.0)
+PID: 4817, Name: amsengagementd, Status running, CPU Time: pcputimes(user=0.906364032, system=0.713132032, children_user=0.0, children_system=0.0)
+PID: 4818, Name: appstoreagent, Status running, CPU Time: pcputimes(user=0.421029632, system=0.482782176, children_user=0.0, children_system=0.0)
+PID: 4819, Name: gamed, Status running, CPU Time: pcputimes(user=0.753959552, system=0.699347072, children_user=0.0, children_system=0.0)
+PID: 4824, Name: promotedcontentd, Status running, CPU Time: pcputimes(user=0.162196048, system=0.176751712, children_user=0.0, children_system=0.0)
+PID: 4828, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=6.066627584, system=3.041235968, children_user=0.0, children_system=0.0)
+PID: 4830, Name: sociallayerd, Status running, CPU Time: pcputimes(user=0.309257056, system=0.176269584, children_user=0.0, children_system=0.0)
+PID: 4832, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=3.196156928, system=0.823916288, children_user=0.0, children_system=0.0)
+PID: 4834, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=19.898236928, system=5.073977856, children_user=0.0, children_system=0.0)
+PID: 4867, Name: TextThumbnailExtension, Status running, CPU Time: pcputimes(user=0.404279296, system=0.13205, children_user=0.0, children_system=0.0)
+PID: 4877, Name: UserNotificationCenter, Status running, CPU Time: pcputimes(user=0.627982144, system=0.394921248, children_user=0.0, children_system=0.0)
+PID: 4878, Name: CommCenter, Status running, CPU Time: pcputimes(user=0.10654304, system=0.352225664, children_user=0.0, children_system=0.0)
+PID: 4892, Name: siriactionsd, Status running, CPU Time: pcputimes(user=0.493826944, system=0.616143936, children_user=0.0, children_system=0.0)
+PID: 4895, Name: siriknowledged, Status running, CPU Time: pcputimes(user=4.193523456, system=1.704250624, children_user=0.0, children_system=0.0)
+PID: 4899, Name: SetStoreUpdateService, Status running, CPU Time: pcputimes(user=0.231227376, system=0.15338688, children_user=0.0, children_system=0.0)
+PID: 4901, Name: smd, Status running, CPU Time: None
+PID: 4912, Name: photoanalysisd, Status running, CPU Time: pcputimes(user=1.368626944, system=0.743395072, children_user=0.0, children_system=0.0)
+PID: 4932, Name: dataaccessd, Status running, CPU Time: pcputimes(user=3.407055104, system=1.550102784, children_user=0.0, children_system=0.0)
+PID: 4939, Name: donotdisturbd, Status running, CPU Time: pcputimes(user=1.277715712, system=0.611973504, children_user=0.0, children_system=0.0)
+PID: 4947, Name: iCloudNotificationAgent, Status running, CPU Time: pcputimes(user=0.103846544, system=0.133605208, children_user=0.0, children_system=0.0)
+PID: 4948, Name: appleaccountd, Status running, CPU Time: pcputimes(user=0.214325536, system=0.208603328, children_user=0.0, children_system=0.0)
+PID: 4950, Name: generativeexperiencesd, Status running, CPU Time: pcputimes(user=1.545073024, system=0.79191424, children_user=0.0, children_system=0.0)
+PID: 4951, Name: followupd, Status running, CPU Time: pcputimes(user=0.030261958, system=0.037215168, children_user=0.0, children_system=0.0)
+PID: 5190, Name: IMDPersistenceAgent, Status running, CPU Time: pcputimes(user=4.105008384, system=1.020238144, children_user=0.0, children_system=0.0)
+PID: 5192, Name: newsd, Status running, CPU Time: pcputimes(user=0.222958128, system=0.318014528, children_user=0.0, children_system=0.0)
+PID: 5203, Name: countryd, Status running, CPU Time: None
+PID: 5206, Name: routined, Status running, CPU Time: pcputimes(user=3.354850816, system=2.269722368, children_user=0.0, children_system=0.0)
+PID: 5239, Name: ScreenTimeAgent, Status running, CPU Time: pcputimes(user=2.176580096, system=1.20529984, children_user=0.0, children_system=0.0)
+PID: 5252, Name: storekitagent, Status running, CPU Time: pcputimes(user=0.173822624, system=0.18397096, children_user=0.0, children_system=0.0)
+PID: 5372, Name: powerdatad, Status running, CPU Time: None
+PID: 5382, Name: osanalyticshelpe, Status running, CPU Time: None
+PID: 5423, Name: cloudphotod, Status running, CPU Time: pcputimes(user=0.101612832, system=0.14281896, children_user=0.0, children_system=0.0)
+PID: 5436, Name: cfprefsd, Status running, CPU Time: None
+PID: 5446, Name: bash, Status running, CPU Time: pcputimes(user=0.005254041, system=0.009504333, children_user=0.0, children_system=0.0)
+PID: 5447, Name: top, Status running, CPU Time: None
+PID: 5448, Name: grep, Status running, CPU Time: pcputimes(user=0.070921584, system=0.043361, children_user=0.0, children_system=0.0)
+PID: 5449, Name: keyboardservicesd, Status running, CPU Time: pcputimes(user=0.09148004, system=0.103603248, children_user=0.0, children_system=0.0)
+PID: 5450, Name: FPCKService, Status running, CPU Time: pcputimes(user=19.142260736, system=18.732212224, children_user=0.0, children_system=0.0)
+PID: 5500, Name: findmydevice-user-agent, Status running, CPU Time: pcputimes(user=0.071275584, system=0.05424, children_user=0.0, children_system=0.0)
+PID: 5519, Name: fmfd, Status running, CPU Time: pcputimes(user=0.269775008, system=0.282820448, children_user=0.0, children_system=0.0)
+PID: 5631, Name: Terminal, Status running, CPU Time: pcputimes(user=6.028564992, system=2.17798656, children_user=0.0, children_system=0.0)
+PID: 5633, Name: com.apple.Accoun, Status running, CPU Time: None
+PID: 5702, Name: WeatherWidget, Status running, CPU Time: pcputimes(user=1.097786752, system=0.496, children_user=0.0, children_system=0.0)
+PID: 5737, Name: businessservicesd, Status running, CPU Time: pcputimes(user=0.087289664, system=0.125160584, children_user=0.0, children_system=0.0)
+PID: 5743, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.197138288, system=0.299023904, children_user=0.0, children_system=0.0)
+PID: 5757, Name: ChatGPT, Status running, CPU Time: pcputimes(user=170.823811072, system=16.92102656, children_user=0.0, children_system=0.0)
+PID: 5786, Name: storagekitd, Status running, CPU Time: None
+PID: 5790, Name: cdpd, Status running, CPU Time: pcputimes(user=0.044118832, system=0.050808752, children_user=0.0, children_system=0.0)
+PID: 5837, Name: spindump, Status running, CPU Time: None
+PID: 5853, Name: Electron, Status running, CPU Time: pcputimes(user=57.605234688, system=17.20584192, children_user=0.0, children_system=0.0)
+PID: 5857, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.004577708, system=0.009853416, children_user=0.0, children_system=0.0)
+PID: 5858, Name: Code Helper (GPU), Status running, CPU Time: pcputimes(user=64.376184832, system=20.079669248, children_user=0.0, children_system=0.0)
+PID: 5859, Name: Code Helper, Status running, CPU Time: pcputimes(user=0.932380416, system=0.547124736, children_user=0.0, children_system=0.0)
+PID: 5861, Name: Code Helper (Renderer), Status running, CPU Time: pcputimes(user=215.843946496, system=20.00813056, children_user=0.0, children_system=0.0)
+PID: 5873, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.040735416, system=0.053434168, children_user=0.0, children_system=0.0)
+PID: 5874, Name: Code Helper, Status running, CPU Time: pcputimes(user=7.269076992, system=2.07304896, children_user=0.0, children_system=0.0)
+PID: 5875, Name: Code Helper, Status running, CPU Time: pcputimes(user=1.048169856, system=0.7620832, children_user=0.0, children_system=0.0)
+PID: 5893, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=25.76474112, system=5.388391424, children_user=0.0, children_system=0.0)
+PID: 5913, Name: Code Helper, Status running, CPU Time: pcputimes(user=3.543521024, system=4.91444736, children_user=0.0, children_system=0.0)
+PID: 5914, Name: zsh, Status running, CPU Time: pcputimes(user=0.005551916, system=0.009695875, children_user=0.0, children_system=0.0)
+PID: 5935, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=0.261878208, system=0.093056912, children_user=0.0, children_system=0.0)
+PID: 6007, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=50.681331712, system=6.698192896, children_user=0.0, children_system=0.0)
+PID: 6844, Name: zsh, Status running, CPU Time: pcputimes(user=0.023627416, system=0.05810396, children_user=0.0, children_system=0.0)
+PID: 6902, Name: LinkedNotesUIService, Status running, CPU Time: pcputimes(user=0.124899128, system=0.165525216, children_user=0.0, children_system=0.0)
+PID: 7081, Name: zsh, Status running, CPU Time: pcputimes(user=0.007315875, system=0.012733541, children_user=0.0, children_system=0.0)
+PID: 7111, Name: zsh, Status running, CPU Time: pcputimes(user=0.007326958, system=0.0110025, children_user=0.0, children_system=0.0)
+PID: 7387, Name: intelligentroutingd, Status running, CPU Time: pcputimes(user=0.197692256, system=0.181556464, children_user=0.0, children_system=0.0)
+PID: 7405, Name: colorsyncd, Status running, CPU Time: None
+PID: 7406, Name: com.apple.iCloudHelper, Status running, CPU Time: pcputimes(user=0.53432608, system=0.271661152, children_user=0.0, children_system=0.0)
+PID: 7407, Name: colorsync.useragent, Status running, CPU Time: pcputimes(user=0.012202916, system=0.012815166, children_user=0.0, children_system=0.0)
+PID: 7408, Name: com.apple.CloudPhotosConfiguration, Status running, CPU Time: pcputimes(user=0.046681084, system=0.055390708, children_user=0.0, children_system=0.0)
+PID: 7411, Name: TrustedPeersHelper, Status running, CPU Time: pcputimes(user=0.072591872, system=0.030706124, children_user=0.0, children_system=0.0)
+PID: 7421, Name: spindump_agent, Status running, CPU Time: pcputimes(user=0.00997675, system=0.009911791, children_user=0.0, children_system=0.0)
+PID: 7429, Name: studentd, Status running, CPU Time: pcputimes(user=1.223739264, system=0.299749504, children_user=0.0, children_system=0.0)
+PID: 7430, Name: transparencyd, Status running, CPU Time: pcputimes(user=0.707207168, system=0.287231168, children_user=0.0, children_system=0.0)
+PID: 7431, Name: progressd, Status running, CPU Time: pcputimes(user=0.12458992, system=0.040552332, children_user=0.0, children_system=0.0)
+PID: 7433, Name: ProtectedCloudKeySyncing, Status running, CPU Time: pcputimes(user=0.023219292, system=0.0218365, children_user=0.0, children_system=0.0)
+PID: 7437, Name: nfcd, Status running, CPU Time: None
+PID: 7438, Name: NFStorageServer, Status running, CPU Time: None
+PID: 7439, Name: colorsync.displa, Status running, CPU Time: None
+PID: 7440, Name: com.apple.ColorS, Status running, CPU Time: None
+PID: 7500, Name: idleassetsd, Status running, CPU Time: None
+PID: 7513, Name: ospredictiond, Status running, CPU Time: None
+PID: 7514, Name: feedbackd, Status running, CPU Time: pcputimes(user=0.01920025, system=0.0180935, children_user=0.0, children_system=0.0)
+PID: 7516, Name: managedcorespotlightd, Status running, CPU Time: pcputimes(user=0.029542876, system=0.038389792, children_user=0.0, children_system=0.0)
+PID: 7517, Name: gamecontrollerd, Status running, CPU Time: None
+PID: 7518, Name: gamecontrolleragentd, Status running, CPU Time: pcputimes(user=0.066802416, system=0.041365124, children_user=0.0, children_system=0.0)
+PID: 7519, Name: icloudmailagent, Status running, CPU Time: pcputimes(user=0.308010176, system=0.136606784, children_user=0.0, children_system=0.0)
+PID: 7524, Name: online-auth-agen, Status running, CPU Time: None
+PID: 7533, Name: cloudd, Status running, CPU Time: None
+PID: 7538, Name: mobileassetd, Status running, CPU Time: None
+PID: 7539, Name: softwareupdated, Status running, CPU Time: None
+PID: 7542, Name: softwareupdated, Status running, CPU Time: None
+PID: 7544, Name: com.apple.Mobile, Status running, CPU Time: None
+PID: 7545, Name: SidecarRelay, Status running, CPU Time: pcputimes(user=0.023575916, system=0.03037425, children_user=0.0, children_system=0.0)
+PID: 7547, Name: backupd-helper, Status running, CPU Time: None
+PID: 7556, Name: com.apple.geod, Status running, CPU Time: pcputimes(user=0.238436672, system=0.378047296, children_user=0.0, children_system=0.0)
+PID: 7557, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7558, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7559, Name: secinitd, Status running, CPU Time: None
+PID: 7560, Name: secinitd, Status running, CPU Time: None
+PID: 7561, Name: cfprefsd, Status running, CPU Time: None
+PID: 7562, Name: trustd, Status running, CPU Time: None
+PID: 7563, Name: trustdFileHelper, Status running, CPU Time: None
+PID: 7564, Name: cfprefsd, Status running, CPU Time: None
+PID: 7565, Name: containermanager, Status running, CPU Time: None
+PID: 7566, Name: trustd, Status running, CPU Time: None
+PID: 7568, Name: containermanager, Status running, CPU Time: None
+PID: 7571, Name: findmybeaconingd, Status running, CPU Time: None
+PID: 7611, Name: modelcatalogd, Status running, CPU Time: None
+PID: 7612, Name: com.apple.siri.embeddedspeech, Status running, CPU Time: pcputimes(user=0.890776, system=0.263782128, children_user=0.0, children_system=0.0)
+PID: 7657, Name: devicecheckd, Status running, CPU Time: pcputimes(user=0.069800168, system=0.03704954, children_user=0.0, children_system=0.0)
+PID: 7658, Name: naturallanguaged, Status running, CPU Time: pcputimes(user=0.713357184, system=0.219773632, children_user=0.0, children_system=0.0)
+PID: 7686, Name: swtransparencyd, Status running, CPU Time: pcputimes(user=0.065427664, system=0.079950248, children_user=0.0, children_system=0.0)
+PID: 7687, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=0.085912496, system=0.041717792, children_user=0.0, children_system=0.0)
+PID: 7818, Name: sysmond, Status running, CPU Time: None
+PID: 7819, Name: SAExtensionOrchestrator, Status running, CPU Time: pcputimes(user=0.159069216, system=0.054281832, children_user=0.0, children_system=0.0)
+PID: 7820, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=0.121840872, system=0.038612624, children_user=0.0, children_system=0.0)
+PID: 7821, Name: IFTranscriptSELFIngestor, Status running, CPU Time: pcputimes(user=0.030428084, system=0.02816204, children_user=0.0, children_system=0.0)
+PID: 7822, Name: IFTelemetrySELFIngestor, Status running, CPU Time: pcputimes(user=0.031256708, system=0.017582376, children_user=0.0, children_system=0.0)
+PID: 7823, Name: BiomeSELFIngestor, Status running, CPU Time: pcputimes(user=0.033307084, system=0.022310376, children_user=0.0, children_system=0.0)
+PID: 7824, Name: GMSSELFIngestor, Status running, CPU Time: pcputimes(user=0.030761666, system=0.025116958, children_user=0.0, children_system=0.0)
+PID: 7849, Name: findmydeviced, Status running, CPU Time: None
+PID: 7852, Name: akd, Status running, CPU Time: None
+PID: 7853, Name: FindMyDeviceIden, Status running, CPU Time: None
+PID: 7858, Name: intelligenceplatformd, Status running, CPU Time: pcputimes(user=0.151521504, system=0.15135792, children_user=0.0, children_system=0.0)
+PID: 7913, Name: replicatord, Status running, CPU Time: pcputimes(user=1.167000064, system=0.51532384, children_user=0.0, children_system=0.0)
+PID: 7943, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.031127708, system=0.076050752, children_user=0.0, children_system=0.0)
+PID: 7944, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.016310291, system=0.025470332, children_user=0.0, children_system=0.0)
+PID: 7954, Name: appplaceholdersyncd, Status running, CPU Time: pcputimes(user=0.83818208, system=0.910042432, children_user=0.0, children_system=0.0)
+PID: 7963, Name: com.apple.StreamingUnzipService, Status running, CPU Time: pcputimes(user=0.098307584, system=0.078996, children_user=0.0, children_system=0.0)
+PID: 8038, Name: com.apple.Safari.SafeBrowsing.Service, Status running, CPU Time: pcputimes(user=1.111923456, system=0.306456928, children_user=0.0, children_system=0.0)
+PID: 8039, Name: IntelligencePlatformComputeService, Status running, CPU Time: pcputimes(user=0.326722368, system=0.313293344, children_user=0.0, children_system=0.0)
+PID: 8206, Name: Python, Status stopped, CPU Time: pcputimes(user=0.098688912, system=0.09494296, children_user=0.0, children_system=0.0)
+PID: 8224, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.090611288, system=0.030495916, children_user=0.0, children_system=0.0)
+PID: 8225, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.071847248, system=0.0228275, children_user=0.0, children_system=0.0)
+PID: 8226, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.066930752, system=0.019126916, children_user=0.0, children_system=0.0)
+PID: 8239, Name: Python, Status running, CPU Time: pcputimes(user=0.040112832, system=0.019256332, children_user=0.0, children_system=0.0)
+
+
+2025-03-06 00:59:57 - CPU: 15.1%, Memory: 75.2%, Disk: 37.3%, Network: Sent=613215232 Bytes, Recv=5734254592 Bytes
+Process:
+PID: 0, Name: kernel_task, Status running, CPU Time: None
+PID: 1, Name: launchd, Status running, CPU Time: None
+PID: 91, Name: logd, Status running, CPU Time: None
+PID: 93, Name: UserEventAgent, Status running, CPU Time: None
+PID: 95, Name: fseventsd, Status running, CPU Time: None
+PID: 96, Name: mediaremoted, Status running, CPU Time: None
+PID: 99, Name: systemstats, Status running, CPU Time: None
+PID: 102, Name: configd, Status running, CPU Time: None
+PID: 104, Name: powerd, Status running, CPU Time: None
+PID: 105, Name: IOMFB_bics_daemo, Status running, CPU Time: None
+PID: 109, Name: remoted, Status running, CPU Time: None
+PID: 114, Name: watchdogd, Status running, CPU Time: None
+PID: 118, Name: mds, Status running, CPU Time: None
+PID: 120, Name: kernelmanagerd, Status running, CPU Time: None
+PID: 121, Name: diskarbitrationd, Status running, CPU Time: None
+PID: 125, Name: syslogd, Status running, CPU Time: None
+PID: 128, Name: thermalmonitord, Status running, CPU Time: None
+PID: 129, Name: opendirectoryd, Status running, CPU Time: None
+PID: 131, Name: apsd, Status running, CPU Time: None
+PID: 132, Name: launchservicesd, Status running, CPU Time: None
+PID: 133, Name: timed, Status running, CPU Time: None
+PID: 134, Name: usbmuxd, Status running, CPU Time: None
+PID: 135, Name: securityd, Status running, CPU Time: None
+PID: 137, Name: locationd, Status running, CPU Time: None
+PID: 138, Name: nesessionmanager, Status running, CPU Time: None
+PID: 140, Name: autofsd, Status running, CPU Time: None
+PID: 141, Name: dasd, Status running, CPU Time: None
+PID: 143, Name: distnoted, Status running, CPU Time: None
+PID: 145, Name: PerfPowerService, Status running, CPU Time: None
+PID: 147, Name: logind, Status running, CPU Time: None
+PID: 148, Name: revisiond, Status running, CPU Time: None
+PID: 149, Name: KernelEventAgent, Status running, CPU Time: None
+PID: 152, Name: bluetoothd, Status running, CPU Time: None
+PID: 153, Name: notifyd, Status running, CPU Time: None
+PID: 154, Name: sandboxd, Status running, CPU Time: None
+PID: 155, Name: corebrightnessd, Status running, CPU Time: None
+PID: 156, Name: AirPlayXPCHelper, Status running, CPU Time: None
+PID: 157, Name: com.apple.cmio.r, Status running, CPU Time: None
+PID: 158, Name: WindowServer, Status running, CPU Time: None
+PID: 159, Name: tccd, Status running, CPU Time: None
+PID: 161, Name: cfprefsd, Status running, CPU Time: None
+PID: 162, Name: loginwindow, Status running, CPU Time: pcputimes(user=9.41119488, system=5.35413248, children_user=0.0, children_system=0.0)
+PID: 164, Name: contextstored, Status running, CPU Time: None
+PID: 165, Name: runningboardd, Status running, CPU Time: None
+PID: 166, Name: lsd, Status running, CPU Time: None
+PID: 167, Name: coreservicesd, Status running, CPU Time: None
+PID: 169, Name: airportd, Status running, CPU Time: None
+PID: 170, Name: systemstatusd, Status running, CPU Time: None
+PID: 171, Name: coreaudiod, Status running, CPU Time: None
+PID: 178, Name: apfsd, Status running, CPU Time: None
+PID: 179, Name: nsurlsessiond, Status running, CPU Time: None
+PID: 180, Name: nehelper, Status running, CPU Time: None
+PID: 182, Name: analyticsd, Status running, CPU Time: None
+PID: 183, Name: eligibilityd, Status running, CPU Time: None
+PID: 187, Name: distnoted, Status running, CPU Time: None
+PID: 194, Name: distnoted, Status running, CPU Time: None
+PID: 195, Name: distnoted, Status running, CPU Time: None
+PID: 196, Name: authd, Status running, CPU Time: None
+PID: 206, Name: biomed, Status running, CPU Time: None
+PID: 209, Name: mDNSResponder, Status running, CPU Time: None
+PID: 210, Name: TouchBarServer, Status running, CPU Time: None
+PID: 215, Name: symptomsd, Status running, CPU Time: None
+PID: 216, Name: socketfilterfw, Status running, CPU Time: None
+PID: 219, Name: sysextd, Status running, CPU Time: None
+PID: 264, Name: mDNSResponderHel, Status running, CPU Time: None
+PID: 265, Name: com.apple.CodeSi, Status running, CPU Time: None
+PID: 271, Name: distnoted, Status running, CPU Time: None
+PID: 277, Name: com.apple.audio., Status running, CPU Time: None
+PID: 280, Name: appleeventsd, Status running, CPU Time: None
+PID: 281, Name: syspolicyd, Status running, CPU Time: None
+PID: 282, Name: gamepolicyd, Status running, CPU Time: None
+PID: 285, Name: WirelessRadioMan, Status running, CPU Time: None
+PID: 291, Name: audioclocksyncd, Status running, CPU Time: None
+PID: 292, Name: distnoted, Status running, CPU Time: None
+PID: 295, Name: modelmanagerd, Status running, CPU Time: None
+PID: 299, Name: appleh13camerad, Status running, CPU Time: None
+PID: 300, Name: cameracaptured, Status running, CPU Time: None
+PID: 301, Name: UVCAssistant, Status running, CPU Time: None
+PID: 303, Name: celapid, Status running, CPU Time: None
+PID: 307, Name: com.Cvnt.ce.Fire, Status running, CPU Time: None
+PID: 309, Name: searchpartyd, Status running, CPU Time: None
+PID: 310, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 313, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 314, Name: com.apple.AppleU, Status running, CPU Time: None
+PID: 315, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 318, Name: mds_stores, Status running, CPU Time: None
+PID: 323, Name: suhelperd, Status running, CPU Time: None
+PID: 325, Name: distnoted, Status running, CPU Time: None
+PID: 334, Name: BTLEServer, Status running, CPU Time: None
+PID: 338, Name: distnoted, Status running, CPU Time: None
+PID: 341, Name: distnoted, Status running, CPU Time: None
+PID: 350, Name: distnoted, Status running, CPU Time: None
+PID: 353, Name: systemstats, Status running, CPU Time: None
+PID: 363, Name: wifianalyticsd, Status running, CPU Time: None
+PID: 368, Name: ceclassifierd, Status running, CPU Time: None
+PID: 370, Name: bsdtar, Status running, CPU Time: None
+PID: 371, Name: oahd, Status running, CPU Time: None
+PID: 372, Name: adid, Status running, CPU Time: None
+PID: 373, Name: cewd, Status running, CPU Time: None
+PID: 379, Name: coreauthd, Status running, CPU Time: None
+PID: 380, Name: ctkahp, Status running, CPU Time: None
+PID: 389, Name: ctkd, Status running, CPU Time: None
+PID: 393, Name: netbiosd, Status running, CPU Time: None
+PID: 394, Name: rtcreportingd, Status running, CPU Time: None
+PID: 396, Name: IOUserBluetoothS, Status running, CPU Time: None
+PID: 404, Name: trustd, Status running, CPU Time: None
+PID: 410, Name: distnoted, Status running, CPU Time: pcputimes(user=11.092524032, system=2.778191104, children_user=0.0, children_system=0.0)
+PID: 412, Name: distnoted, Status running, CPU Time: None
+PID: 413, Name: cfprefsd, Status running, CPU Time: pcputimes(user=11.77115136, system=13.41853184, children_user=0.0, children_system=0.0)
+PID: 414, Name: UserEventAgent, Status running, CPU Time: pcputimes(user=7.138756608, system=3.267582208, children_user=0.0, children_system=0.0)
+PID: 416, Name: ContinuityCaptureAgent, Status running, CPU Time: pcputimes(user=4.913339904, system=3.28688512, children_user=0.0, children_system=0.0)
+PID: 420, Name: knowledge-agent, Status running, CPU Time: pcputimes(user=10.69274624, system=3.598555392, children_user=0.0, children_system=0.0)
+PID: 421, Name: ContextStoreAgent, Status running, CPU Time: pcputimes(user=4.699542016, system=2.526616064, children_user=0.0, children_system=0.0)
+PID: 423, Name: ControlCenter, Status running, CPU Time: pcputimes(user=201.347661824, system=25.58824448, children_user=0.0, children_system=0.0)
+PID: 424, Name: distnoted, Status running, CPU Time: None
+PID: 426, Name: CoreServicesUIAgent, Status running, CPU Time: pcputimes(user=2.867183616, system=3.437099008, children_user=0.0, children_system=0.0)
+PID: 427, Name: universalaccessd, Status running, CPU Time: pcputimes(user=1.118101376, system=1.224411264, children_user=0.0, children_system=0.0)
+PID: 428, Name: pboard, Status running, CPU Time: pcputimes(user=0.138952256, system=0.212899632, children_user=0.0, children_system=0.0)
+PID: 431, Name: lsd, Status running, CPU Time: pcputimes(user=3.116945152, system=3.33294464, children_user=0.0, children_system=0.0)
+PID: 433, Name: containermanagerd, Status running, CPU Time: pcputimes(user=2.498477312, system=2.298881536, children_user=0.0, children_system=0.0)
+PID: 434, Name: secd, Status running, CPU Time: pcputimes(user=15.091364864, system=5.88719872, children_user=0.0, children_system=0.0)
+PID: 435, Name: rapportd, Status running, CPU Time: pcputimes(user=3.459910912, system=2.772006912, children_user=0.0, children_system=0.0)
+PID: 438, Name: nsurlsessiond, Status running, CPU Time: pcputimes(user=13.62604544, system=6.506472448, children_user=0.0, children_system=0.0)
+PID: 440, Name: ControlStrip, Status running, CPU Time: pcputimes(user=1.874831104, system=1.416999808, children_user=0.0, children_system=0.0)
+PID: 441, Name: usernoted, Status running, CPU Time: pcputimes(user=3.966713088, system=2.820000768, children_user=0.0, children_system=0.0)
+PID: 444, Name: exchangesyncd, Status running, CPU Time: pcputimes(user=3.484831232, system=3.87156992, children_user=0.0, children_system=0.0)
+PID: 445, Name: lockoutagent, Status running, CPU Time: pcputimes(user=1.620125312, system=1.98954048, children_user=0.0, children_system=0.0)
+PID: 448, Name: filecoordination, Status running, CPU Time: None
+PID: 451, Name: usernotificationsd, Status running, CPU Time: pcputimes(user=2.393856, system=1.581849728, children_user=0.0, children_system=0.0)
+PID: 455, Name: suggestd, Status running, CPU Time: pcputimes(user=39.457148928, system=13.194913792, children_user=0.0, children_system=0.0)
+PID: 456, Name: tccd, Status running, CPU Time: pcputimes(user=12.277448704, system=10.92056064, children_user=0.0, children_system=0.0)
+PID: 457, Name: callservicesd, Status running, CPU Time: pcputimes(user=4.07001472, system=2.783752704, children_user=0.0, children_system=0.0)
+PID: 460, Name: heard, Status running, CPU Time: pcputimes(user=4.27924352, system=3.31444864, children_user=0.0, children_system=0.0)
+PID: 462, Name: audioaccessoryd, Status running, CPU Time: pcputimes(user=2.328645376, system=1.933089408, children_user=0.0, children_system=0.0)
+PID: 463, Name: WiFiAgent, Status running, CPU Time: pcputimes(user=19.108435968, system=2.132775808, children_user=0.0, children_system=0.0)
+PID: 464, Name: accountsd, Status running, CPU Time: pcputimes(user=14.466067456, system=6.120456704, children_user=0.0, children_system=0.0)
+PID: 466, Name: fileproviderd, Status running, CPU Time: pcputimes(user=41.51826432, system=18.220716032, children_user=0.0, children_system=0.0)
+PID: 467, Name: identityservicesd, Status running, CPU Time: pcputimes(user=12.065124352, system=7.80342272, children_user=0.0, children_system=0.0)
+PID: 468, Name: trustd, Status running, CPU Time: pcputimes(user=52.90145792, system=7.081423872, children_user=0.0, children_system=0.0)
+PID: 476, Name: imklaunchagent, Status running, CPU Time: pcputimes(user=0.073093832, system=0.151268336, children_user=0.0, children_system=0.0)
+PID: 478, Name: WindowManager, Status running, CPU Time: pcputimes(user=43.23250176, system=5.996179456, children_user=0.0, children_system=0.0)
+PID: 481, Name: assistantd, Status running, CPU Time: pcputimes(user=5.594100224, system=4.861825536, children_user=0.0, children_system=0.0)
+PID: 483, Name: replayd, Status running, CPU Time: pcputimes(user=3.810038016, system=8.371844096, children_user=0.0, children_system=0.0)
+PID: 486, Name: nearbyd, Status running, CPU Time: None
+PID: 490, Name: sharingd, Status running, CPU Time: pcputimes(user=15.26945792, system=5.717380096, children_user=0.0, children_system=0.0)
+PID: 491, Name: triald, Status running, CPU Time: pcputimes(user=5.071747072, system=5.405913088, children_user=0.0, children_system=0.0)
+PID: 493, Name: coreauthd, Status running, CPU Time: pcputimes(user=0.504314784, system=0.824369728, children_user=0.0, children_system=0.0)
+PID: 495, Name: cloudd, Status running, CPU Time: pcputimes(user=53.506752512, system=18.940059648, children_user=0.0, children_system=0.0)
+PID: 496, Name: BiomeAgent, Status running, CPU Time: pcputimes(user=10.821067776, system=10.522033152, children_user=0.0, children_system=0.0)
+PID: 503, Name: PAH_Extension, Status running, CPU Time: pcputimes(user=0.708631872, system=0.723654656, children_user=0.0, children_system=0.0)
+PID: 505, Name: EmojiFunctionRowIM_Extension, Status running, CPU Time: pcputimes(user=0.809276416, system=0.81594944, children_user=0.0, children_system=0.0)
+PID: 506, Name: aned, Status running, CPU Time: None
+PID: 510, Name: Dock, Status running, CPU Time: pcputimes(user=11.137460224, system=6.69926144, children_user=0.0, children_system=0.0)
+PID: 512, Name: SystemUIServer, Status running, CPU Time: pcputimes(user=1.20257536, system=1.205778176, children_user=0.0, children_system=0.0)
+PID: 513, Name: Finder, Status running, CPU Time: pcputimes(user=29.208457216, system=15.41635584, children_user=0.0, children_system=0.0)
+PID: 516, Name: awdd, Status running, CPU Time: None
+PID: 517, Name: homed, Status running, CPU Time: pcputimes(user=6.74542592, system=4.911747584, children_user=0.0, children_system=0.0)
+PID: 520, Name: sharedfilelistd, Status running, CPU Time: pcputimes(user=0.33476112, system=0.388133056, children_user=0.0, children_system=0.0)
+PID: 521, Name: NotificationCenter, Status running, CPU Time: pcputimes(user=50.8275712, system=18.8484096, children_user=0.0, children_system=0.0)
+PID: 527, Name: familycircled, Status running, CPU Time: pcputimes(user=4.152352256, system=1.164281216, children_user=0.0, children_system=0.0)
+PID: 528, Name: StatusKitAgent, Status running, CPU Time: pcputimes(user=2.344035328, system=1.431891968, children_user=0.0, children_system=0.0)
+PID: 530, Name: WallpaperAgent, Status running, CPU Time: pcputimes(user=0.959824192, system=1.152569728, children_user=0.0, children_system=0.0)
+PID: 531, Name: akd, Status running, CPU Time: pcputimes(user=2.697961472, system=2.262084864, children_user=0.0, children_system=0.0)
+PID: 533, Name: imagent, Status running, CPU Time: pcputimes(user=13.734457344, system=6.034185216, children_user=0.0, children_system=0.0)
+PID: 539, Name: chronod, Status running, CPU Time: pcputimes(user=16.841404416, system=5.853292544, children_user=0.0, children_system=0.0)
+PID: 542, Name: automountd, Status running, CPU Time: None
+PID: 543, Name: bluetoothuserd, Status running, CPU Time: pcputimes(user=0.903876544, system=0.865161088, children_user=0.0, children_system=0.0)
+PID: 544, Name: ViewBridgeAuxiliary, Status running, CPU Time: pcputimes(user=3.489449472, system=2.015403904, children_user=0.0, children_system=0.0)
+PID: 545, Name: useractivityd, Status running, CPU Time: pcputimes(user=1.482521984, system=1.29353024, children_user=0.0, children_system=0.0)
+PID: 546, Name: mediaremoteagent, Status running, CPU Time: pcputimes(user=0.116972792, system=0.153146128, children_user=0.0, children_system=0.0)
+PID: 547, Name: AMPDeviceDiscoveryAgent, Status running, CPU Time: pcputimes(user=0.065313876, system=0.110636704, children_user=0.0, children_system=0.0)
+PID: 553, Name: seserviced, Status running, CPU Time: pcputimes(user=0.05298996, system=0.02753454, children_user=0.0, children_system=0.0)
+PID: 560, Name: Surfshark Finder Extension, Status running, CPU Time: pcputimes(user=0.269820416, system=0.3396112, children_user=0.0, children_system=0.0)
+PID: 561, Name: fontd, Status running, CPU Time: pcputimes(user=1.065933376, system=0.575903744, children_user=0.0, children_system=0.0)
+PID: 562, Name: WallpaperImageExtension, Status running, CPU Time: pcputimes(user=0.34731376, system=0.113051664, children_user=0.0, children_system=0.0)
+PID: 564, Name: corespotlightd, Status running, CPU Time: pcputimes(user=29.488822272, system=18.672871424, children_user=0.0, children_system=0.0)
+PID: 565, Name: fontworker, Status running, CPU Time: pcputimes(user=0.226321216, system=0.390690912, children_user=0.0, children_system=0.0)
+PID: 566, Name: avconferenced, Status running, CPU Time: pcputimes(user=0.320024, system=0.635370304, children_user=0.0, children_system=0.0)
+PID: 567, Name: DisplayLinkXpcService, Status running, CPU Time: pcputimes(user=0.006566708, system=0.006481208, children_user=0.0, children_system=0.0)
+PID: 568, Name: corespeechd, Status running, CPU Time: pcputimes(user=198.464995328, system=51.474784256, children_user=0.0, children_system=0.0)
+PID: 575, Name: Siri, Status running, CPU Time: pcputimes(user=29.874669568, system=12.542946304, children_user=0.0, children_system=0.0)
+PID: 576, Name: icdd, Status running, CPU Time: pcputimes(user=0.073657, system=0.075345208, children_user=0.0, children_system=0.0)
+PID: 580, Name: Covenant Eyes, Status running, CPU Time: pcputimes(user=82.888523776, system=29.71759616, children_user=0.0, children_system=0.0)
+PID: 583, Name: AirPlayUIAgent, Status running, CPU Time: pcputimes(user=0.295247872, system=0.41929008, children_user=0.0, children_system=0.0)
+PID: 584, Name: diagnostics_agent, Status running, CPU Time: pcputimes(user=0.364575616, system=0.615565632, children_user=0.0, children_system=0.0)
+PID: 585, Name: TextInputMenuAgent, Status running, CPU Time: pcputimes(user=1.385234816, system=1.09600384, children_user=0.0, children_system=0.0)
+PID: 589, Name: ctkahp, Status running, CPU Time: pcputimes(user=0.055891168, system=0.050202208, children_user=0.0, children_system=0.0)
+PID: 591, Name: com.apple.CloudDocs.iCloudDriveFileProvider, Status running, CPU Time: pcputimes(user=2.138944896, system=0.750148352, children_user=0.0, children_system=0.0)
+PID: 592, Name: figma_agent, Status running, CPU Time: pcputimes(user=15.31323904, system=15.365004288, children_user=0.0, children_system=0.0)
+PID: 593, Name: Spotlight, Status running, CPU Time: pcputimes(user=7.185988608, system=3.96653056, children_user=0.0, children_system=0.0)
+PID: 595, Name: networkserviceproxy, Status running, CPU Time: pcputimes(user=5.605425152, system=3.774756096, children_user=0.0, children_system=0.0)
+PID: 598, Name: duetexpertd, Status running, CPU Time: pcputimes(user=28.899680256, system=22.134319104, children_user=0.0, children_system=0.0)
+PID: 602, Name: DisplayLinkUserAgent, Status running, CPU Time: pcputimes(user=4.431648768, system=3.617156608, children_user=0.0, children_system=0.0)
+PID: 603, Name: com.apple.dock.extra, Status running, CPU Time: pcputimes(user=6.37256192, system=1.643347328, children_user=0.0, children_system=0.0)
+PID: 608, Name: commerce, Status running, CPU Time: pcputimes(user=0.195806544, system=0.19920088, children_user=0.0, children_system=0.0)
+PID: 609, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=3.683502848, system=1.599943936, children_user=0.0, children_system=0.0)
+PID: 615, Name: parentalcontrols, Status running, CPU Time: None
+PID: 621, Name: CursorUIViewService, Status running, CPU Time: pcputimes(user=4.825853952, system=2.72490112, children_user=0.0, children_system=0.0)
+PID: 623, Name: BatteriesAvocadoWidgetExtension, Status running, CPU Time: pcputimes(user=9.691092992, system=1.921856, children_user=0.0, children_system=0.0)
+PID: 625, Name: Surfshark, Status running, CPU Time: pcputimes(user=388.81492992, system=59.364253696, children_user=0.0, children_system=0.0)
+PID: 626, Name: CalendarWidgetExtension, Status running, CPU Time: pcputimes(user=5.365621248, system=0.209768256, children_user=0.0, children_system=0.0)
+PID: 629, Name: WorldClockWidget, Status running, CPU Time: pcputimes(user=2.315355136, system=0.099248544, children_user=0.0, children_system=0.0)
+PID: 630, Name: UIKitSystem, Status running, CPU Time: pcputimes(user=1.328268544, system=1.32259136, children_user=0.0, children_system=0.0)
+PID: 631, Name: NewsTag, Status running, CPU Time: pcputimes(user=23.896068096, system=6.460199936, children_user=0.0, children_system=0.0)
+PID: 632, Name: ScreenTimeWidgetExtension, Status running, CPU Time: pcputimes(user=3.378143232, system=1.025773376, children_user=0.0, children_system=0.0)
+PID: 638, Name: maild, Status running, CPU Time: pcputimes(user=17.111446528, system=5.501192192, children_user=0.0, children_system=0.0)
+PID: 646, Name: BTLEServerAgent, Status running, CPU Time: pcputimes(user=0.064139, system=0.064453168, children_user=0.0, children_system=0.0)
+PID: 652, Name: UniversalControl, Status running, CPU Time: pcputimes(user=51.844911104, system=32.882071552, children_user=0.0, children_system=0.0)
+PID: 653, Name: mdbulkimport, Status running, CPU Time: pcputimes(user=3.552766976, system=3.084281344, children_user=0.0, children_system=0.0)
+PID: 656, Name: cewd, Status running, CPU Time: pcputimes(user=0.001421041, system=0.003340958, children_user=0.0, children_system=0.0)
+PID: 670, Name: fairplayd, Status running, CPU Time: None
+PID: 671, Name: milod, Status running, CPU Time: pcputimes(user=3.644091392, system=0.985921152, children_user=0.0, children_system=0.0)
+PID: 697, Name: wifivelocityd, Status running, CPU Time: None
+PID: 701, Name: storedownloadd, Status running, CPU Time: pcputimes(user=0.068391504, system=0.064924752, children_user=0.0, children_system=0.0)
+PID: 730, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=3.121229056, system=1.88961728, children_user=0.0, children_system=0.0)
+PID: 734, Name: CrashReporterSup, Status running, CPU Time: None
+PID: 750, Name: SubmitDiagInfo, Status running, CPU Time: None
+PID: 802, Name: SiriNCService, Status running, CPU Time: pcputimes(user=5.079337984, system=2.18784256, children_user=0.0, children_system=0.0)
+PID: 851, Name: contactsd, Status running, CPU Time: pcputimes(user=258.679242752, system=106.023862272, children_user=0.0, children_system=0.0)
+PID: 863, Name: SafariBookmarksSyncAgent, Status running, CPU Time: pcputimes(user=2.195523328, system=1.569759616, children_user=0.0, children_system=0.0)
+PID: 870, Name: distnoted, Status running, CPU Time: None
+PID: 881, Name: AppleSpell, Status running, CPU Time: pcputimes(user=24.41473024, system=8.235131392, children_user=0.0, children_system=0.0)
+PID: 931, Name: Safari, Status running, CPU Time: pcputimes(user=237.507280896, system=91.939135488, children_user=0.0, children_system=0.0)
+PID: 932, Name: com.apple.Safari.History, Status running, CPU Time: pcputimes(user=11.460324352, system=1.401852928, children_user=0.0, children_system=0.0)
+PID: 934, Name: passd, Status running, CPU Time: pcputimes(user=0.59032064, system=1.139557376, children_user=0.0, children_system=0.0)
+PID: 937, Name: CVMServer, Status running, CPU Time: None
+PID: 940, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=127.574040576, system=65.753309184, children_user=0.0, children_system=0.0)
+PID: 943, Name: com.apple.Safari.SearchHelper, Status running, CPU Time: pcputimes(user=1.163881728, system=0.807676992, children_user=0.0, children_system=0.0)
+PID: 957, Name: distnoted, Status running, CPU Time: None
+PID: 1013, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=0.104466832, system=0.116952416, children_user=0.0, children_system=0.0)
+PID: 1021, Name: PDF Reader Pro, Status running, CPU Time: pcputimes(user=2794.460545024, system=602.5592832, children_user=0.0, children_system=0.0)
+PID: 1025, Name: mdwrite, Status running, CPU Time: pcputimes(user=0.020116958, system=0.027884458, children_user=0.0, children_system=0.0)
+PID: 1039, Name: fbahelperd, Status running, CPU Time: None
+PID: 1043, Name: peopled, Status running, CPU Time: pcputimes(user=4.656854016, system=1.193939968, children_user=0.0, children_system=0.0)
+PID: 1045, Name: Messages Assistant Extension, Status running, CPU Time: pcputimes(user=1.12579776, system=0.339065504, children_user=0.0, children_system=0.0)
+PID: 1049, Name: audiomxd, Status running, CPU Time: None
+PID: 1050, Name: searchpartyuseragent, Status running, CPU Time: pcputimes(user=19.712086016, system=9.677678592, children_user=0.0, children_system=0.0)
+PID: 1061, Name: com.apple.appkit.xpc.openAndSavePanelService, Status running, CPU Time: pcputimes(user=0.944949696, system=1.094509568, children_user=0.0, children_system=0.0)
+PID: 1136, Name: PowerChime, Status running, CPU Time: pcputimes(user=0.38164624, system=0.650134656, children_user=0.0, children_system=0.0)
+PID: 1138, Name: com.apple.Ambien, Status running, CPU Time: None
+PID: 1141, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1143, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1441, Name: com.apple.hiservices-xpcservice, Status running, CPU Time: pcputimes(user=10.697946112, system=12.090499072, children_user=0.0, children_system=0.0)
+PID: 1444, Name: com.apple.PassKit.PaymentAuthorizationUIExtension, Status running, CPU Time: pcputimes(user=3.585800704, system=1.283917312, children_user=0.0, children_system=0.0)
+PID: 1475, Name: audioanalyticsd, Status running, CPU Time: None
+PID: 1523, Name: com.apple.Safari.SandboxBroker, Status running, CPU Time: pcputimes(user=0.641601984, system=0.879951296, children_user=0.0, children_system=0.0)
+PID: 1525, Name: LocalAuthenticationRemoteService, Status running, CPU Time: pcputimes(user=0.727729152, system=0.821742016, children_user=0.0, children_system=0.0)
+PID: 1569, Name: Messages, Status running, CPU Time: pcputimes(user=6.230490112, system=5.537261568, children_user=0.0, children_system=0.0)
+PID: 1784, Name: DiskUnmountWatcher, Status running, CPU Time: pcputimes(user=0.0185195, system=0.034560792, children_user=0.0, children_system=0.0)
+PID: 1793, Name: universalAccessAuthWarn, Status running, CPU Time: pcputimes(user=0.577528256, system=0.717718976, children_user=0.0, children_system=0.0)
+PID: 1807, Name: taskgated, Status running, CPU Time: None
+PID: 1862, Name: backupd, Status running, CPU Time: None
+PID: 1885, Name: NowPlayingTouchUI, Status running, CPU Time: pcputimes(user=2.079292032, system=1.629729792, children_user=0.0, children_system=0.0)
+PID: 1981, Name: iCUEUpdateServic, Status running, CPU Time: None
+PID: 2006, Name: VMware Fusion, Status running, CPU Time: pcputimes(user=145.37351168, system=64.660992, children_user=0.0, children_system=0.0)
+PID: 2010, Name: iCUE, Status running, CPU Time: pcputimes(user=530.276286464, system=509.273669632, children_user=0.0, children_system=0.0)
+PID: 2012, Name: com.apple.ctkpcscd, Status running, CPU Time: pcputimes(user=1.493182464, system=2.010794624, children_user=0.0, children_system=0.0)
+PID: 2015, Name: VMware Fusion Start Menu, Status running, CPU Time: pcputimes(user=0.198937712, system=0.32386608, children_user=0.0, children_system=0.0)
+PID: 2021, Name: crashpad_handler, Status running, CPU Time: pcputimes(user=0.002801208, system=0.002827333, children_user=0.0, children_system=0.0)
+PID: 2024, Name: VMware Fusion Services, Status running, CPU Time: pcputimes(user=0.004687708, system=0.004579125, children_user=0.0, children_system=0.0)
+PID: 2079, Name: vmnet-bridge, Status running, CPU Time: None
+PID: 2121, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2125, Name: InternetSharing, Status running, CPU Time: None
+PID: 2138, Name: vmnet-natd, Status running, CPU Time: None
+PID: 2140, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2142, Name: vmware-usbarbitr, Status running, CPU Time: None
+PID: 2197, Name: USBAgent, Status running, CPU Time: pcputimes(user=0.037182084, system=0.013850708, children_user=0.0, children_system=0.0)
+PID: 2253, Name: coreduetd, Status running, CPU Time: None
+PID: 2254, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=11.714127872, system=6.064530432, children_user=0.0, children_system=0.0)
+PID: 2350, Name: contentlinkingd, Status running, CPU Time: pcputimes(user=0.434430912, system=0.36634528, children_user=0.0, children_system=0.0)
+PID: 2351, Name: inputanalyticsd, Status running, CPU Time: pcputimes(user=0.220221872, system=0.308184256, children_user=0.0, children_system=0.0)
+PID: 2546, Name: mmaintenanced, Status running, CPU Time: None
+PID: 2623, Name: distnoted, Status running, CPU Time: None
+PID: 2939, Name: com.apple.mail.SpotlightIndexExtension, Status running, CPU Time: pcputimes(user=0.124961208, system=0.321062048, children_user=0.0, children_system=0.0)
+PID: 3041, Name: distnoted, Status running, CPU Time: None
+PID: 3222, Name: QmlRenderer, Status running, CPU Time: pcputimes(user=427.88585472, system=618.20010496, children_user=0.0, children_system=0.0)
+PID: 3268, Name: storeuid, Status running, CPU Time: pcputimes(user=0.265161456, system=0.424766464, children_user=0.0, children_system=0.0)
+PID: 3294, Name: diskimagesiod, Status running, CPU Time: None
+PID: 3517, Name: distnoted, Status running, CPU Time: None
+PID: 3530, Name: Mail, Status running, CPU Time: pcputimes(user=26.418968576, system=12.178157568, children_user=0.0, children_system=0.0)
+PID: 3535, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=0.512480288, system=0.674328768, children_user=0.0, children_system=0.0)
+PID: 3536, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.433755904, system=0.820004736, children_user=0.0, children_system=0.0)
+PID: 3538, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=0.22349912, system=0.200933504, children_user=0.0, children_system=0.0)
+PID: 3546, Name: distnoted, Status running, CPU Time: None
+PID: 3547, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 3678, Name: proactived, Status running, CPU Time: pcputimes(user=0.460275712, system=0.451953952, children_user=0.0, children_system=0.0)
+PID: 3706, Name: neagent, Status running, CPU Time: pcputimes(user=0.518506528, system=0.230972, children_user=0.0, children_system=0.0)
+PID: 3761, Name: CoreLocationAgent, Status running, CPU Time: pcputimes(user=0.187387536, system=0.489700544, children_user=0.0, children_system=0.0)
+PID: 3762, Name: syncdefaultsd, Status running, CPU Time: pcputimes(user=0.466456448, system=0.465931872, children_user=0.0, children_system=0.0)
+PID: 3763, Name: AMPLibraryAgent, Status running, CPU Time: pcputimes(user=13.570239488, system=4.504370688, children_user=0.0, children_system=0.0)
+PID: 3788, Name: UsageTrackingAgent, Status running, CPU Time: pcputimes(user=1.968228096, system=1.242405376, children_user=0.0, children_system=0.0)
+PID: 3796, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 3856, Name: Music, Status running, CPU Time: pcputimes(user=8.46840576, system=4.293846272, children_user=0.0, children_system=0.0)
+PID: 3868, Name: VisualizerService_x86, Status running, CPU Time: pcputimes(user=0.401426176, system=0.935391104, children_user=0.0, children_system=0.0)
+PID: 3869, Name: VisualizerService, Status running, CPU Time: pcputimes(user=0.126905584, system=0.227512368, children_user=0.0, children_system=0.0)
+PID: 3934, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.15530392, system=0.23033112, children_user=0.0, children_system=0.0)
+PID: 3942, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.238889088, system=0.354549504, children_user=0.0, children_system=0.0)
+PID: 4011, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=0.044904332, system=0.03286975, children_user=0.0, children_system=0.0)
+PID: 4098, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 4148, Name: AssetCacheLocatorService, Status running, CPU Time: pcputimes(user=0.123802336, system=0.152219536, children_user=0.0, children_system=0.0)
+PID: 4230, Name: amsaccountsd, Status running, CPU Time: pcputimes(user=0.43290672, system=0.58757728, children_user=0.0, children_system=0.0)
+PID: 4231, Name: containermanager, Status running, CPU Time: None
+PID: 4246, Name: Discord, Status running, CPU Time: pcputimes(user=11.60748032, system=8.119302144, children_user=0.0, children_system=0.0)
+PID: 4248, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.006127583, system=0.02482804, children_user=0.0, children_system=0.0)
+PID: 4250, Name: Discord Helper (GPU), Status running, CPU Time: pcputimes(user=1.56881984, system=1.039423872, children_user=0.0, children_system=0.0)
+PID: 4251, Name: Discord Helper, Status running, CPU Time: pcputimes(user=1.271403392, system=0.99016768, children_user=0.0, children_system=0.0)
+PID: 4256, Name: Discord Helper (Renderer), Status running, CPU Time: pcputimes(user=191.580192768, system=100.458078208, children_user=0.0, children_system=0.0)
+PID: 4270, Name: Discord Helper, Status running, CPU Time: pcputimes(user=0.510263904, system=0.307175616, children_user=0.0, children_system=0.0)
+PID: 4271, Name: Discord Helper (Plugin), Status running, CPU Time: pcputimes(user=0.48103712, system=0.301131616, children_user=0.0, children_system=0.0)
+PID: 4288, Name: DockHelper, Status running, CPU Time: pcputimes(user=0.379095328, system=0.43942432, children_user=0.0, children_system=0.0)
+PID: 4304, Name: AppSSOAgent, Status running, CPU Time: pcputimes(user=0.150287712, system=0.301233792, children_user=0.0, children_system=0.0)
+PID: 4305, Name: AppSSODaemon, Status running, CPU Time: None
+PID: 4309, Name: biometrickitd, Status running, CPU Time: None
+PID: 4312, Name: parsecd, Status running, CPU Time: pcputimes(user=0.484815616, system=0.820945472, children_user=0.0, children_system=0.0)
+PID: 4314, Name: itunescloudd, Status running, CPU Time: pcputimes(user=0.262822576, system=0.276492224, children_user=0.0, children_system=0.0)
+PID: 4342, Name: bird, Status running, CPU Time: pcputimes(user=17.425061888, system=11.202743296, children_user=0.0, children_system=0.0)
+PID: 4343, Name: usermanagerd, Status running, CPU Time: None
+PID: 4345, Name: NewsScoringService, Status running, CPU Time: pcputimes(user=0.083724544, system=0.195018464, children_user=0.0, children_system=0.0)
+PID: 4350, Name: Keychain Circle Notification, Status running, CPU Time: pcputimes(user=0.158121952, system=0.192196672, children_user=0.0, children_system=0.0)
+PID: 4354, Name: OSDUIHelper, Status running, CPU Time: pcputimes(user=0.367890368, system=0.437362432, children_user=0.0, children_system=0.0)
+PID: 4355, Name: secinitd, Status running, CPU Time: pcputimes(user=0.326483008, system=0.298033088, children_user=0.0, children_system=0.0)
+PID: 4356, Name: wifip2pd, Status running, CPU Time: None
+PID: 4371, Name: ctkd, Status running, CPU Time: pcputimes(user=0.103251504, system=0.138857712, children_user=0.0, children_system=0.0)
+PID: 4373, Name: findmylocateagent, Status running, CPU Time: pcputimes(user=0.237485328, system=0.369221344, children_user=0.0, children_system=0.0)
+PID: 4374, Name: securityd_system, Status running, CPU Time: None
+PID: 4376, Name: photolibraryd, Status running, CPU Time: pcputimes(user=0.904580928, system=0.802853504, children_user=0.0, children_system=0.0)
+PID: 4377, Name: ScopedBookmarkAgent, Status running, CPU Time: pcputimes(user=0.149323424, system=0.131648872, children_user=0.0, children_system=0.0)
+PID: 4378, Name: mediaanalysisd, Status running, CPU Time: pcputimes(user=28.180201472, system=4.975217152, children_user=0.0, children_system=0.0)
+PID: 4418, Name: calaccessd, Status running, CPU Time: pcputimes(user=3.754191104, system=1.766038784, children_user=0.0, children_system=0.0)
+PID: 4464, Name: mobileactivation, Status running, CPU Time: None
+PID: 4478, Name: AppPredictionIntentsHelperService, Status running, CPU Time: pcputimes(user=1.645618304, system=1.761909376, children_user=0.0, children_system=0.0)
+PID: 4486, Name: linkd, Status running, CPU Time: pcputimes(user=1.875042048, system=1.176919296, children_user=0.0, children_system=0.0)
+PID: 4521, Name: com.apple.quicklook.ThumbnailsAgent, Status running, CPU Time: pcputimes(user=1.212096512, system=0.876190848, children_user=0.0, children_system=0.0)
+PID: 4558, Name: youtube-music-desktop-app, Status running, CPU Time: pcputimes(user=55.049510912, system=16.196537344, children_user=0.0, children_system=0.0)
+PID: 4591, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.034000708, system=0.014767875, children_user=0.0, children_system=0.0)
+PID: 4595, Name: YouTube Music Desktop App Helper (GPU), Status running, CPU Time: pcputimes(user=196.175347712, system=63.86880512, children_user=0.0, children_system=0.0)
+PID: 4598, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=8.185736704, system=5.256389632, children_user=0.0, children_system=0.0)
+PID: 4603, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=2.122282112, system=0.427322624, children_user=0.0, children_system=0.0)
+PID: 4610, Name: BackgroundTaskManagementAgent, Status running, CPU Time: pcputimes(user=0.127081792, system=0.207755296, children_user=0.0, children_system=0.0)
+PID: 4618, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=555.290722304, system=58.694156288, children_user=0.0, children_system=0.0)
+PID: 4631, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=3.444776704, system=0.813767872, children_user=0.0, children_system=0.0)
+PID: 4632, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=62.395981824, system=22.630955008, children_user=0.0, children_system=0.0)
+PID: 4635, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=62.17334784, system=80.760291328, children_user=0.0, children_system=0.0)
+PID: 4777, Name: recentsd, Status running, CPU Time: pcputimes(user=0.051652792, system=0.047847792, children_user=0.0, children_system=0.0)
+PID: 4817, Name: amsengagementd, Status running, CPU Time: pcputimes(user=0.90651488, system=0.713366144, children_user=0.0, children_system=0.0)
+PID: 4818, Name: appstoreagent, Status running, CPU Time: pcputimes(user=0.421236256, system=0.4831488, children_user=0.0, children_system=0.0)
+PID: 4819, Name: gamed, Status running, CPU Time: pcputimes(user=0.754026816, system=0.69951456, children_user=0.0, children_system=0.0)
+PID: 4824, Name: promotedcontentd, Status running, CPU Time: pcputimes(user=0.162224784, system=0.176784912, children_user=0.0, children_system=0.0)
+PID: 4828, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=6.06670336, system=3.041418752, children_user=0.0, children_system=0.0)
+PID: 4830, Name: sociallayerd, Status running, CPU Time: pcputimes(user=0.309257056, system=0.176269584, children_user=0.0, children_system=0.0)
+PID: 4832, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=3.196156928, system=0.823916288, children_user=0.0, children_system=0.0)
+PID: 4834, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=19.898236928, system=5.073977856, children_user=0.0, children_system=0.0)
+PID: 4867, Name: TextThumbnailExtension, Status running, CPU Time: pcputimes(user=0.404279296, system=0.13205, children_user=0.0, children_system=0.0)
+PID: 4877, Name: UserNotificationCenter, Status running, CPU Time: pcputimes(user=0.627982144, system=0.394921248, children_user=0.0, children_system=0.0)
+PID: 4878, Name: CommCenter, Status running, CPU Time: pcputimes(user=0.10654304, system=0.352225664, children_user=0.0, children_system=0.0)
+PID: 4892, Name: siriactionsd, Status running, CPU Time: pcputimes(user=0.493826944, system=0.616143936, children_user=0.0, children_system=0.0)
+PID: 4895, Name: siriknowledged, Status running, CPU Time: pcputimes(user=4.193523456, system=1.704250624, children_user=0.0, children_system=0.0)
+PID: 4899, Name: SetStoreUpdateService, Status running, CPU Time: pcputimes(user=0.231227376, system=0.15338688, children_user=0.0, children_system=0.0)
+PID: 4901, Name: smd, Status running, CPU Time: None
+PID: 4912, Name: photoanalysisd, Status running, CPU Time: pcputimes(user=1.368715648, system=0.743534976, children_user=0.0, children_system=0.0)
+PID: 4932, Name: dataaccessd, Status running, CPU Time: pcputimes(user=3.4070976, system=1.550185088, children_user=0.0, children_system=0.0)
+PID: 4939, Name: donotdisturbd, Status running, CPU Time: pcputimes(user=1.277715712, system=0.611973504, children_user=0.0, children_system=0.0)
+PID: 4947, Name: iCloudNotificationAgent, Status running, CPU Time: pcputimes(user=0.103876248, system=0.133638496, children_user=0.0, children_system=0.0)
+PID: 4948, Name: appleaccountd, Status running, CPU Time: pcputimes(user=0.214385952, system=0.208657168, children_user=0.0, children_system=0.0)
+PID: 4950, Name: generativeexperiencesd, Status running, CPU Time: pcputimes(user=1.545073024, system=0.79191424, children_user=0.0, children_system=0.0)
+PID: 4951, Name: followupd, Status running, CPU Time: pcputimes(user=0.030261958, system=0.037215168, children_user=0.0, children_system=0.0)
+PID: 5190, Name: IMDPersistenceAgent, Status running, CPU Time: pcputimes(user=4.105008384, system=1.020238144, children_user=0.0, children_system=0.0)
+PID: 5192, Name: newsd, Status running, CPU Time: pcputimes(user=0.222987744, system=0.31805216, children_user=0.0, children_system=0.0)
+PID: 5203, Name: countryd, Status running, CPU Time: None
+PID: 5206, Name: routined, Status running, CPU Time: pcputimes(user=3.354850816, system=2.269722368, children_user=0.0, children_system=0.0)
+PID: 5239, Name: ScreenTimeAgent, Status running, CPU Time: pcputimes(user=2.274218496, system=1.253598848, children_user=0.0, children_system=0.0)
+PID: 5252, Name: storekitagent, Status running, CPU Time: pcputimes(user=0.17384216, system=0.184002336, children_user=0.0, children_system=0.0)
+PID: 5372, Name: powerdatad, Status running, CPU Time: None
+PID: 5382, Name: osanalyticshelpe, Status running, CPU Time: None
+PID: 5423, Name: cloudphotod, Status running, CPU Time: pcputimes(user=0.101612832, system=0.14281896, children_user=0.0, children_system=0.0)
+PID: 5436, Name: cfprefsd, Status running, CPU Time: None
+PID: 5446, Name: bash, Status running, CPU Time: pcputimes(user=0.005254041, system=0.009504333, children_user=0.0, children_system=0.0)
+PID: 5447, Name: top, Status running, CPU Time: None
+PID: 5448, Name: grep, Status running, CPU Time: pcputimes(user=0.071094208, system=0.043459792, children_user=0.0, children_system=0.0)
+PID: 5449, Name: keyboardservicesd, Status running, CPU Time: pcputimes(user=0.09148004, system=0.103603248, children_user=0.0, children_system=0.0)
+PID: 5450, Name: FPCKService, Status running, CPU Time: pcputimes(user=19.142260736, system=18.732212224, children_user=0.0, children_system=0.0)
+PID: 5500, Name: findmydevice-user-agent, Status running, CPU Time: pcputimes(user=0.071275584, system=0.05424, children_user=0.0, children_system=0.0)
+PID: 5519, Name: fmfd, Status running, CPU Time: pcputimes(user=0.269795424, system=0.282846944, children_user=0.0, children_system=0.0)
+PID: 5631, Name: Terminal, Status running, CPU Time: pcputimes(user=6.028637696, system=2.178208768, children_user=0.0, children_system=0.0)
+PID: 5633, Name: com.apple.Accoun, Status running, CPU Time: None
+PID: 5702, Name: WeatherWidget, Status running, CPU Time: pcputimes(user=1.097786752, system=0.496, children_user=0.0, children_system=0.0)
+PID: 5737, Name: businessservicesd, Status running, CPU Time: pcputimes(user=0.087289664, system=0.125160584, children_user=0.0, children_system=0.0)
+PID: 5743, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.197138288, system=0.299023904, children_user=0.0, children_system=0.0)
+PID: 5757, Name: ChatGPT, Status running, CPU Time: pcputimes(user=171.107024896, system=16.972716032, children_user=0.0, children_system=0.0)
+PID: 5786, Name: storagekitd, Status running, CPU Time: None
+PID: 5790, Name: cdpd, Status running, CPU Time: pcputimes(user=0.044118832, system=0.050808752, children_user=0.0, children_system=0.0)
+PID: 5837, Name: spindump, Status running, CPU Time: None
+PID: 5853, Name: Electron, Status running, CPU Time: pcputimes(user=57.801740288, system=17.264607232, children_user=0.0, children_system=0.0)
+PID: 5857, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.004577708, system=0.009853416, children_user=0.0, children_system=0.0)
+PID: 5858, Name: Code Helper (GPU), Status running, CPU Time: pcputimes(user=64.574922752, system=20.156633088, children_user=0.0, children_system=0.0)
+PID: 5859, Name: Code Helper, Status running, CPU Time: pcputimes(user=0.934662016, system=0.547870528, children_user=0.0, children_system=0.0)
+PID: 5861, Name: Code Helper (Renderer), Status running, CPU Time: pcputimes(user=216.3789824, system=20.062726144, children_user=0.0, children_system=0.0)
+PID: 5873, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.040735416, system=0.053434168, children_user=0.0, children_system=0.0)
+PID: 5874, Name: Code Helper, Status running, CPU Time: pcputimes(user=7.272929792, system=2.073933312, children_user=0.0, children_system=0.0)
+PID: 5875, Name: Code Helper, Status running, CPU Time: pcputimes(user=1.050050944, system=0.764652608, children_user=0.0, children_system=0.0)
+PID: 5893, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=25.786544128, system=5.39275264, children_user=0.0, children_system=0.0)
+PID: 5913, Name: Code Helper, Status running, CPU Time: pcputimes(user=3.561307904, system=4.945068032, children_user=0.0, children_system=0.0)
+PID: 5914, Name: zsh, Status running, CPU Time: pcputimes(user=0.005551916, system=0.009695875, children_user=0.0, children_system=0.0)
+PID: 5935, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=0.26233896, system=0.09321808, children_user=0.0, children_system=0.0)
+PID: 6007, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=50.681966592, system=6.698492928, children_user=0.0, children_system=0.0)
+PID: 6844, Name: zsh, Status running, CPU Time: pcputimes(user=0.023627416, system=0.05810396, children_user=0.0, children_system=0.0)
+PID: 6902, Name: LinkedNotesUIService, Status running, CPU Time: pcputimes(user=0.124899128, system=0.165525216, children_user=0.0, children_system=0.0)
+PID: 7081, Name: zsh, Status running, CPU Time: pcputimes(user=0.007315875, system=0.012733541, children_user=0.0, children_system=0.0)
+PID: 7111, Name: zsh, Status running, CPU Time: pcputimes(user=0.007326958, system=0.0110025, children_user=0.0, children_system=0.0)
+PID: 7387, Name: intelligentroutingd, Status running, CPU Time: pcputimes(user=0.197692256, system=0.181556464, children_user=0.0, children_system=0.0)
+PID: 7405, Name: colorsyncd, Status running, CPU Time: None
+PID: 7406, Name: com.apple.iCloudHelper, Status running, CPU Time: pcputimes(user=0.534367264, system=0.27177216, children_user=0.0, children_system=0.0)
+PID: 7407, Name: colorsync.useragent, Status running, CPU Time: pcputimes(user=0.012202916, system=0.012815166, children_user=0.0, children_system=0.0)
+PID: 7408, Name: com.apple.CloudPhotosConfiguration, Status running, CPU Time: pcputimes(user=0.046681084, system=0.055390708, children_user=0.0, children_system=0.0)
+PID: 7411, Name: TrustedPeersHelper, Status running, CPU Time: pcputimes(user=0.072591872, system=0.030706124, children_user=0.0, children_system=0.0)
+PID: 7421, Name: spindump_agent, Status running, CPU Time: pcputimes(user=0.00997675, system=0.009911791, children_user=0.0, children_system=0.0)
+PID: 7429, Name: studentd, Status running, CPU Time: pcputimes(user=1.223774464, system=0.299793536, children_user=0.0, children_system=0.0)
+PID: 7430, Name: transparencyd, Status running, CPU Time: pcputimes(user=0.707232, system=0.287266624, children_user=0.0, children_system=0.0)
+PID: 7431, Name: progressd, Status running, CPU Time: pcputimes(user=0.12458992, system=0.040552332, children_user=0.0, children_system=0.0)
+PID: 7433, Name: ProtectedCloudKeySyncing, Status running, CPU Time: pcputimes(user=0.023219292, system=0.0218365, children_user=0.0, children_system=0.0)
+PID: 7437, Name: nfcd, Status running, CPU Time: None
+PID: 7438, Name: NFStorageServer, Status running, CPU Time: None
+PID: 7439, Name: colorsync.displa, Status running, CPU Time: None
+PID: 7440, Name: com.apple.ColorS, Status running, CPU Time: None
+PID: 7500, Name: idleassetsd, Status running, CPU Time: None
+PID: 7513, Name: ospredictiond, Status running, CPU Time: None
+PID: 7514, Name: feedbackd, Status running, CPU Time: pcputimes(user=0.01920025, system=0.0180935, children_user=0.0, children_system=0.0)
+PID: 7516, Name: managedcorespotlightd, Status running, CPU Time: pcputimes(user=0.029542876, system=0.038389792, children_user=0.0, children_system=0.0)
+PID: 7517, Name: gamecontrollerd, Status running, CPU Time: None
+PID: 7518, Name: gamecontrolleragentd, Status running, CPU Time: pcputimes(user=0.06699096, system=0.041731168, children_user=0.0, children_system=0.0)
+PID: 7519, Name: icloudmailagent, Status running, CPU Time: pcputimes(user=0.308010176, system=0.136606784, children_user=0.0, children_system=0.0)
+PID: 7524, Name: online-auth-agen, Status running, CPU Time: None
+PID: 7533, Name: cloudd, Status running, CPU Time: None
+PID: 7538, Name: mobileassetd, Status running, CPU Time: None
+PID: 7539, Name: softwareupdated, Status running, CPU Time: None
+PID: 7542, Name: softwareupdated, Status running, CPU Time: None
+PID: 7544, Name: com.apple.Mobile, Status running, CPU Time: None
+PID: 7545, Name: SidecarRelay, Status running, CPU Time: pcputimes(user=0.023575916, system=0.03037425, children_user=0.0, children_system=0.0)
+PID: 7547, Name: backupd-helper, Status running, CPU Time: None
+PID: 7556, Name: com.apple.geod, Status running, CPU Time: pcputimes(user=0.238455872, system=0.378072672, children_user=0.0, children_system=0.0)
+PID: 7557, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7558, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7559, Name: secinitd, Status running, CPU Time: None
+PID: 7560, Name: secinitd, Status running, CPU Time: None
+PID: 7561, Name: cfprefsd, Status running, CPU Time: None
+PID: 7562, Name: trustd, Status running, CPU Time: None
+PID: 7563, Name: trustdFileHelper, Status running, CPU Time: None
+PID: 7564, Name: cfprefsd, Status running, CPU Time: None
+PID: 7565, Name: containermanager, Status running, CPU Time: None
+PID: 7566, Name: trustd, Status running, CPU Time: None
+PID: 7568, Name: containermanager, Status running, CPU Time: None
+PID: 7571, Name: findmybeaconingd, Status running, CPU Time: None
+PID: 7611, Name: modelcatalogd, Status running, CPU Time: None
+PID: 7612, Name: com.apple.siri.embeddedspeech, Status running, CPU Time: pcputimes(user=0.890776, system=0.263782128, children_user=0.0, children_system=0.0)
+PID: 7657, Name: devicecheckd, Status running, CPU Time: pcputimes(user=0.069800168, system=0.03704954, children_user=0.0, children_system=0.0)
+PID: 7658, Name: naturallanguaged, Status running, CPU Time: pcputimes(user=0.713412032, system=0.219912832, children_user=0.0, children_system=0.0)
+PID: 7686, Name: swtransparencyd, Status running, CPU Time: pcputimes(user=0.065427664, system=0.079950248, children_user=0.0, children_system=0.0)
+PID: 7687, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=0.085912496, system=0.041717792, children_user=0.0, children_system=0.0)
+PID: 7818, Name: sysmond, Status running, CPU Time: None
+PID: 7819, Name: SAExtensionOrchestrator, Status running, CPU Time: pcputimes(user=0.159069216, system=0.054281832, children_user=0.0, children_system=0.0)
+PID: 7820, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=0.121840872, system=0.038612624, children_user=0.0, children_system=0.0)
+PID: 7821, Name: IFTranscriptSELFIngestor, Status running, CPU Time: pcputimes(user=0.030428084, system=0.02816204, children_user=0.0, children_system=0.0)
+PID: 7822, Name: IFTelemetrySELFIngestor, Status running, CPU Time: pcputimes(user=0.031256708, system=0.017582376, children_user=0.0, children_system=0.0)
+PID: 7823, Name: BiomeSELFIngestor, Status running, CPU Time: pcputimes(user=0.033307084, system=0.022310376, children_user=0.0, children_system=0.0)
+PID: 7824, Name: GMSSELFIngestor, Status running, CPU Time: pcputimes(user=0.030761666, system=0.025116958, children_user=0.0, children_system=0.0)
+PID: 7849, Name: findmydeviced, Status running, CPU Time: None
+PID: 7852, Name: akd, Status running, CPU Time: None
+PID: 7853, Name: FindMyDeviceIden, Status running, CPU Time: None
+PID: 7858, Name: intelligenceplatformd, Status running, CPU Time: pcputimes(user=0.151521504, system=0.15135792, children_user=0.0, children_system=0.0)
+PID: 7913, Name: replicatord, Status running, CPU Time: pcputimes(user=1.167108096, system=0.51539808, children_user=0.0, children_system=0.0)
+PID: 7943, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.031127708, system=0.076050752, children_user=0.0, children_system=0.0)
+PID: 7944, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.016310291, system=0.025470332, children_user=0.0, children_system=0.0)
+PID: 7954, Name: appplaceholdersyncd, Status running, CPU Time: pcputimes(user=0.83818208, system=0.910042432, children_user=0.0, children_system=0.0)
+PID: 7963, Name: com.apple.StreamingUnzipService, Status running, CPU Time: pcputimes(user=0.098307584, system=0.078996, children_user=0.0, children_system=0.0)
+PID: 8038, Name: com.apple.Safari.SafeBrowsing.Service, Status running, CPU Time: pcputimes(user=1.111949312, system=0.306476, children_user=0.0, children_system=0.0)
+PID: 8039, Name: IntelligencePlatformComputeService, Status running, CPU Time: pcputimes(user=0.326722368, system=0.313293344, children_user=0.0, children_system=0.0)
+PID: 8206, Name: Python, Status stopped, CPU Time: pcputimes(user=0.098688912, system=0.09494296, children_user=0.0, children_system=0.0)
+PID: 8224, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.099556872, system=0.035171664, children_user=0.0, children_system=0.0)
+PID: 8225, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.071847248, system=0.0228275, children_user=0.0, children_system=0.0)
+PID: 8226, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.066930752, system=0.019126916, children_user=0.0, children_system=0.0)
+PID: 8239, Name: Python, Status running, CPU Time: pcputimes(user=0.053575124, system=0.030332, children_user=0.0, children_system=0.0)
+
+
+2025-03-06 01:00:08 - CPU: 17.9%, Memory: 75.7%, Disk: 37.3%, Network: Sent=613288960 Bytes, Recv=5734328320 Bytes
+Process:
+PID: 0, Name: kernel_task, Status running, CPU Time: None
+PID: 1, Name: launchd, Status running, CPU Time: None
+PID: 91, Name: logd, Status running, CPU Time: None
+PID: 93, Name: UserEventAgent, Status running, CPU Time: None
+PID: 95, Name: fseventsd, Status running, CPU Time: None
+PID: 96, Name: mediaremoted, Status running, CPU Time: None
+PID: 99, Name: systemstats, Status running, CPU Time: None
+PID: 102, Name: configd, Status running, CPU Time: None
+PID: 104, Name: powerd, Status running, CPU Time: None
+PID: 105, Name: IOMFB_bics_daemo, Status running, CPU Time: None
+PID: 109, Name: remoted, Status running, CPU Time: None
+PID: 114, Name: watchdogd, Status running, CPU Time: None
+PID: 118, Name: mds, Status running, CPU Time: None
+PID: 120, Name: kernelmanagerd, Status running, CPU Time: None
+PID: 121, Name: diskarbitrationd, Status running, CPU Time: None
+PID: 125, Name: syslogd, Status running, CPU Time: None
+PID: 128, Name: thermalmonitord, Status running, CPU Time: None
+PID: 129, Name: opendirectoryd, Status running, CPU Time: None
+PID: 131, Name: apsd, Status running, CPU Time: None
+PID: 132, Name: launchservicesd, Status running, CPU Time: None
+PID: 133, Name: timed, Status running, CPU Time: None
+PID: 134, Name: usbmuxd, Status running, CPU Time: None
+PID: 135, Name: securityd, Status running, CPU Time: None
+PID: 137, Name: locationd, Status running, CPU Time: None
+PID: 138, Name: nesessionmanager, Status running, CPU Time: None
+PID: 140, Name: autofsd, Status running, CPU Time: None
+PID: 141, Name: dasd, Status running, CPU Time: None
+PID: 143, Name: distnoted, Status running, CPU Time: None
+PID: 145, Name: PerfPowerService, Status running, CPU Time: None
+PID: 147, Name: logind, Status running, CPU Time: None
+PID: 148, Name: revisiond, Status running, CPU Time: None
+PID: 149, Name: KernelEventAgent, Status running, CPU Time: None
+PID: 152, Name: bluetoothd, Status running, CPU Time: None
+PID: 153, Name: notifyd, Status running, CPU Time: None
+PID: 154, Name: sandboxd, Status running, CPU Time: None
+PID: 155, Name: corebrightnessd, Status running, CPU Time: None
+PID: 156, Name: AirPlayXPCHelper, Status running, CPU Time: None
+PID: 157, Name: com.apple.cmio.r, Status running, CPU Time: None
+PID: 158, Name: WindowServer, Status running, CPU Time: None
+PID: 159, Name: tccd, Status running, CPU Time: None
+PID: 161, Name: cfprefsd, Status running, CPU Time: None
+PID: 162, Name: loginwindow, Status running, CPU Time: pcputimes(user=9.41144064, system=5.355265536, children_user=0.0, children_system=0.0)
+PID: 164, Name: contextstored, Status running, CPU Time: None
+PID: 165, Name: runningboardd, Status running, CPU Time: None
+PID: 166, Name: lsd, Status running, CPU Time: None
+PID: 167, Name: coreservicesd, Status running, CPU Time: None
+PID: 169, Name: airportd, Status running, CPU Time: None
+PID: 170, Name: systemstatusd, Status running, CPU Time: None
+PID: 171, Name: coreaudiod, Status running, CPU Time: None
+PID: 178, Name: apfsd, Status running, CPU Time: None
+PID: 179, Name: nsurlsessiond, Status running, CPU Time: None
+PID: 180, Name: nehelper, Status running, CPU Time: None
+PID: 182, Name: analyticsd, Status running, CPU Time: None
+PID: 183, Name: eligibilityd, Status running, CPU Time: None
+PID: 187, Name: distnoted, Status running, CPU Time: None
+PID: 194, Name: distnoted, Status running, CPU Time: None
+PID: 195, Name: distnoted, Status running, CPU Time: None
+PID: 196, Name: authd, Status running, CPU Time: None
+PID: 206, Name: biomed, Status running, CPU Time: None
+PID: 209, Name: mDNSResponder, Status running, CPU Time: None
+PID: 210, Name: TouchBarServer, Status running, CPU Time: None
+PID: 215, Name: symptomsd, Status running, CPU Time: None
+PID: 216, Name: socketfilterfw, Status running, CPU Time: None
+PID: 219, Name: sysextd, Status running, CPU Time: None
+PID: 264, Name: mDNSResponderHel, Status running, CPU Time: None
+PID: 265, Name: com.apple.CodeSi, Status running, CPU Time: None
+PID: 271, Name: distnoted, Status running, CPU Time: None
+PID: 277, Name: com.apple.audio., Status running, CPU Time: None
+PID: 280, Name: appleeventsd, Status running, CPU Time: None
+PID: 281, Name: syspolicyd, Status running, CPU Time: None
+PID: 282, Name: gamepolicyd, Status running, CPU Time: None
+PID: 285, Name: WirelessRadioMan, Status running, CPU Time: None
+PID: 291, Name: audioclocksyncd, Status running, CPU Time: None
+PID: 292, Name: distnoted, Status running, CPU Time: None
+PID: 295, Name: modelmanagerd, Status running, CPU Time: None
+PID: 299, Name: appleh13camerad, Status running, CPU Time: None
+PID: 300, Name: cameracaptured, Status running, CPU Time: None
+PID: 301, Name: UVCAssistant, Status running, CPU Time: None
+PID: 303, Name: celapid, Status running, CPU Time: None
+PID: 307, Name: com.Cvnt.ce.Fire, Status running, CPU Time: None
+PID: 309, Name: searchpartyd, Status running, CPU Time: None
+PID: 310, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 313, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 314, Name: com.apple.AppleU, Status running, CPU Time: None
+PID: 315, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 318, Name: mds_stores, Status running, CPU Time: None
+PID: 323, Name: suhelperd, Status running, CPU Time: None
+PID: 325, Name: distnoted, Status running, CPU Time: None
+PID: 334, Name: BTLEServer, Status running, CPU Time: None
+PID: 338, Name: distnoted, Status running, CPU Time: None
+PID: 341, Name: distnoted, Status running, CPU Time: None
+PID: 350, Name: distnoted, Status running, CPU Time: None
+PID: 353, Name: systemstats, Status running, CPU Time: None
+PID: 363, Name: wifianalyticsd, Status running, CPU Time: None
+PID: 368, Name: ceclassifierd, Status running, CPU Time: None
+PID: 370, Name: bsdtar, Status running, CPU Time: None
+PID: 371, Name: oahd, Status running, CPU Time: None
+PID: 372, Name: adid, Status running, CPU Time: None
+PID: 373, Name: cewd, Status running, CPU Time: None
+PID: 379, Name: coreauthd, Status running, CPU Time: None
+PID: 380, Name: ctkahp, Status running, CPU Time: None
+PID: 389, Name: ctkd, Status running, CPU Time: None
+PID: 393, Name: netbiosd, Status running, CPU Time: None
+PID: 394, Name: rtcreportingd, Status running, CPU Time: None
+PID: 396, Name: IOUserBluetoothS, Status running, CPU Time: None
+PID: 404, Name: trustd, Status running, CPU Time: None
+PID: 410, Name: distnoted, Status running, CPU Time: pcputimes(user=11.097278464, system=2.778605056, children_user=0.0, children_system=0.0)
+PID: 412, Name: distnoted, Status running, CPU Time: None
+PID: 413, Name: cfprefsd, Status running, CPU Time: pcputimes(user=11.777318912, system=13.425354752, children_user=0.0, children_system=0.0)
+PID: 414, Name: UserEventAgent, Status running, CPU Time: pcputimes(user=7.1387904, system=3.267701504, children_user=0.0, children_system=0.0)
+PID: 416, Name: ContinuityCaptureAgent, Status running, CPU Time: pcputimes(user=4.914210816, system=3.288179712, children_user=0.0, children_system=0.0)
+PID: 420, Name: knowledge-agent, Status running, CPU Time: pcputimes(user=10.693016576, system=3.598771456, children_user=0.0, children_system=0.0)
+PID: 421, Name: ContextStoreAgent, Status running, CPU Time: pcputimes(user=4.699542016, system=2.526616064, children_user=0.0, children_system=0.0)
+PID: 423, Name: ControlCenter, Status running, CPU Time: pcputimes(user=201.367011328, system=25.596209152, children_user=0.0, children_system=0.0)
+PID: 424, Name: distnoted, Status running, CPU Time: None
+PID: 426, Name: CoreServicesUIAgent, Status running, CPU Time: pcputimes(user=2.867329792, system=3.438500608, children_user=0.0, children_system=0.0)
+PID: 427, Name: universalaccessd, Status running, CPU Time: pcputimes(user=1.118101376, system=1.224411264, children_user=0.0, children_system=0.0)
+PID: 428, Name: pboard, Status running, CPU Time: pcputimes(user=0.138952256, system=0.212899632, children_user=0.0, children_system=0.0)
+PID: 431, Name: lsd, Status running, CPU Time: pcputimes(user=3.118273536, system=3.33407744, children_user=0.0, children_system=0.0)
+PID: 433, Name: containermanagerd, Status running, CPU Time: pcputimes(user=2.498548992, system=2.29900416, children_user=0.0, children_system=0.0)
+PID: 434, Name: secd, Status running, CPU Time: pcputimes(user=15.091364864, system=5.88719872, children_user=0.0, children_system=0.0)
+PID: 435, Name: rapportd, Status running, CPU Time: pcputimes(user=3.460741632, system=2.773540096, children_user=0.0, children_system=0.0)
+PID: 438, Name: nsurlsessiond, Status running, CPU Time: pcputimes(user=13.626942464, system=6.507480576, children_user=0.0, children_system=0.0)
+PID: 440, Name: ControlStrip, Status running, CPU Time: pcputimes(user=1.874911744, system=1.418403072, children_user=0.0, children_system=0.0)
+PID: 441, Name: usernoted, Status running, CPU Time: pcputimes(user=3.966956544, system=2.82008448, children_user=0.0, children_system=0.0)
+PID: 444, Name: exchangesyncd, Status running, CPU Time: pcputimes(user=3.486531584, system=3.872373504, children_user=0.0, children_system=0.0)
+PID: 445, Name: lockoutagent, Status running, CPU Time: pcputimes(user=1.6210304, system=1.990627968, children_user=0.0, children_system=0.0)
+PID: 448, Name: filecoordination, Status running, CPU Time: None
+PID: 451, Name: usernotificationsd, Status running, CPU Time: pcputimes(user=2.394333952, system=1.58201216, children_user=0.0, children_system=0.0)
+PID: 455, Name: suggestd, Status running, CPU Time: pcputimes(user=39.457148928, system=13.194913792, children_user=0.0, children_system=0.0)
+PID: 456, Name: tccd, Status running, CPU Time: pcputimes(user=12.277448704, system=10.92056064, children_user=0.0, children_system=0.0)
+PID: 457, Name: callservicesd, Status running, CPU Time: pcputimes(user=4.07001472, system=2.783752704, children_user=0.0, children_system=0.0)
+PID: 460, Name: heard, Status running, CPU Time: pcputimes(user=4.27924352, system=3.31444864, children_user=0.0, children_system=0.0)
+PID: 462, Name: audioaccessoryd, Status running, CPU Time: pcputimes(user=2.32896128, system=1.93325952, children_user=0.0, children_system=0.0)
+PID: 463, Name: WiFiAgent, Status running, CPU Time: pcputimes(user=19.108435968, system=2.132775808, children_user=0.0, children_system=0.0)
+PID: 464, Name: accountsd, Status running, CPU Time: pcputimes(user=14.4663808, system=6.121097216, children_user=0.0, children_system=0.0)
+PID: 466, Name: fileproviderd, Status running, CPU Time: pcputimes(user=41.52367104, system=18.223736832, children_user=0.0, children_system=0.0)
+PID: 467, Name: identityservicesd, Status running, CPU Time: pcputimes(user=12.065183744, system=7.803548672, children_user=0.0, children_system=0.0)
+PID: 468, Name: trustd, Status running, CPU Time: pcputimes(user=52.901543936, system=7.081547776, children_user=0.0, children_system=0.0)
+PID: 476, Name: imklaunchagent, Status running, CPU Time: pcputimes(user=0.073093832, system=0.151268336, children_user=0.0, children_system=0.0)
+PID: 478, Name: WindowManager, Status running, CPU Time: pcputimes(user=43.23672064, system=5.996840448, children_user=0.0, children_system=0.0)
+PID: 481, Name: assistantd, Status running, CPU Time: pcputimes(user=5.594437632, system=4.862280704, children_user=0.0, children_system=0.0)
+PID: 483, Name: replayd, Status running, CPU Time: pcputimes(user=3.81022592, system=8.372040192, children_user=0.0, children_system=0.0)
+PID: 486, Name: nearbyd, Status running, CPU Time: None
+PID: 490, Name: sharingd, Status running, CPU Time: pcputimes(user=15.272932352, system=5.718335488, children_user=0.0, children_system=0.0)
+PID: 491, Name: triald, Status running, CPU Time: pcputimes(user=5.071747072, system=5.405913088, children_user=0.0, children_system=0.0)
+PID: 493, Name: coreauthd, Status running, CPU Time: pcputimes(user=0.504314784, system=0.824369728, children_user=0.0, children_system=0.0)
+PID: 495, Name: cloudd, Status running, CPU Time: pcputimes(user=53.507088384, system=18.940338176, children_user=0.0, children_system=0.0)
+PID: 496, Name: BiomeAgent, Status running, CPU Time: pcputimes(user=10.821067776, system=10.522033152, children_user=0.0, children_system=0.0)
+PID: 503, Name: PAH_Extension, Status running, CPU Time: pcputimes(user=0.708631872, system=0.723654656, children_user=0.0, children_system=0.0)
+PID: 505, Name: EmojiFunctionRowIM_Extension, Status running, CPU Time: pcputimes(user=0.809276416, system=0.81594944, children_user=0.0, children_system=0.0)
+PID: 506, Name: aned, Status running, CPU Time: None
+PID: 510, Name: Dock, Status running, CPU Time: pcputimes(user=11.137916928, system=6.699710464, children_user=0.0, children_system=0.0)
+PID: 512, Name: SystemUIServer, Status running, CPU Time: pcputimes(user=1.203909632, system=1.207853696, children_user=0.0, children_system=0.0)
+PID: 513, Name: Finder, Status running, CPU Time: pcputimes(user=29.214879744, system=15.422375936, children_user=0.0, children_system=0.0)
+PID: 516, Name: awdd, Status running, CPU Time: None
+PID: 517, Name: homed, Status running, CPU Time: pcputimes(user=6.746592256, system=4.914262528, children_user=0.0, children_system=0.0)
+PID: 520, Name: sharedfilelistd, Status running, CPU Time: pcputimes(user=0.33476112, system=0.388133056, children_user=0.0, children_system=0.0)
+PID: 521, Name: NotificationCenter, Status running, CPU Time: pcputimes(user=50.829574144, system=18.850740224, children_user=0.0, children_system=0.0)
+PID: 527, Name: familycircled, Status running, CPU Time: pcputimes(user=4.152352256, system=1.164281216, children_user=0.0, children_system=0.0)
+PID: 528, Name: StatusKitAgent, Status running, CPU Time: pcputimes(user=2.344035328, system=1.431891968, children_user=0.0, children_system=0.0)
+PID: 530, Name: WallpaperAgent, Status running, CPU Time: pcputimes(user=0.959824192, system=1.152569728, children_user=0.0, children_system=0.0)
+PID: 531, Name: akd, Status running, CPU Time: pcputimes(user=2.69798144, system=2.26211712, children_user=0.0, children_system=0.0)
+PID: 533, Name: imagent, Status running, CPU Time: pcputimes(user=13.749568512, system=6.037561856, children_user=0.0, children_system=0.0)
+PID: 539, Name: chronod, Status running, CPU Time: pcputimes(user=16.842452992, system=5.854070784, children_user=0.0, children_system=0.0)
+PID: 542, Name: automountd, Status running, CPU Time: None
+PID: 543, Name: bluetoothuserd, Status running, CPU Time: pcputimes(user=0.90503104, system=0.866049344, children_user=0.0, children_system=0.0)
+PID: 544, Name: ViewBridgeAuxiliary, Status running, CPU Time: pcputimes(user=3.489449472, system=2.015403904, children_user=0.0, children_system=0.0)
+PID: 545, Name: useractivityd, Status running, CPU Time: pcputimes(user=1.482521984, system=1.29353024, children_user=0.0, children_system=0.0)
+PID: 546, Name: mediaremoteagent, Status running, CPU Time: pcputimes(user=0.116972792, system=0.153146128, children_user=0.0, children_system=0.0)
+PID: 547, Name: AMPDeviceDiscoveryAgent, Status running, CPU Time: pcputimes(user=0.065313876, system=0.110636704, children_user=0.0, children_system=0.0)
+PID: 553, Name: seserviced, Status running, CPU Time: pcputimes(user=0.05298996, system=0.02753454, children_user=0.0, children_system=0.0)
+PID: 560, Name: Surfshark Finder Extension, Status running, CPU Time: pcputimes(user=0.269820416, system=0.3396112, children_user=0.0, children_system=0.0)
+PID: 561, Name: fontd, Status running, CPU Time: pcputimes(user=1.065933376, system=0.575903744, children_user=0.0, children_system=0.0)
+PID: 562, Name: WallpaperImageExtension, Status running, CPU Time: pcputimes(user=0.34731376, system=0.113051664, children_user=0.0, children_system=0.0)
+PID: 564, Name: corespotlightd, Status running, CPU Time: pcputimes(user=29.488822272, system=18.672871424, children_user=0.0, children_system=0.0)
+PID: 565, Name: fontworker, Status running, CPU Time: pcputimes(user=0.226321216, system=0.390690912, children_user=0.0, children_system=0.0)
+PID: 566, Name: avconferenced, Status running, CPU Time: pcputimes(user=0.320024, system=0.635370304, children_user=0.0, children_system=0.0)
+PID: 567, Name: DisplayLinkXpcService, Status running, CPU Time: pcputimes(user=0.006566708, system=0.006481208, children_user=0.0, children_system=0.0)
+PID: 568, Name: corespeechd, Status running, CPU Time: pcputimes(user=198.6596864, system=51.521544192, children_user=0.0, children_system=0.0)
+PID: 575, Name: Siri, Status running, CPU Time: pcputimes(user=29.874669568, system=12.542946304, children_user=0.0, children_system=0.0)
+PID: 576, Name: icdd, Status running, CPU Time: pcputimes(user=0.073657, system=0.075345208, children_user=0.0, children_system=0.0)
+PID: 580, Name: Covenant Eyes, Status running, CPU Time: pcputimes(user=82.90729984, system=29.726445568, children_user=0.0, children_system=0.0)
+PID: 583, Name: AirPlayUIAgent, Status running, CPU Time: pcputimes(user=0.295247872, system=0.41929008, children_user=0.0, children_system=0.0)
+PID: 584, Name: diagnostics_agent, Status running, CPU Time: pcputimes(user=0.364575616, system=0.615565632, children_user=0.0, children_system=0.0)
+PID: 585, Name: TextInputMenuAgent, Status running, CPU Time: pcputimes(user=1.385381248, system=1.0967712, children_user=0.0, children_system=0.0)
+PID: 589, Name: ctkahp, Status running, CPU Time: pcputimes(user=0.055891168, system=0.050202208, children_user=0.0, children_system=0.0)
+PID: 591, Name: com.apple.CloudDocs.iCloudDriveFileProvider, Status running, CPU Time: pcputimes(user=2.138944896, system=0.750148352, children_user=0.0, children_system=0.0)
+PID: 592, Name: figma_agent, Status running, CPU Time: pcputimes(user=15.321682944, system=15.373231104, children_user=0.0, children_system=0.0)
+PID: 593, Name: Spotlight, Status running, CPU Time: pcputimes(user=7.203200512, system=3.981859328, children_user=0.0, children_system=0.0)
+PID: 595, Name: networkserviceproxy, Status running, CPU Time: pcputimes(user=5.605454336, system=3.774817536, children_user=0.0, children_system=0.0)
+PID: 598, Name: duetexpertd, Status running, CPU Time: pcputimes(user=28.902346752, system=22.135762944, children_user=0.0, children_system=0.0)
+PID: 602, Name: DisplayLinkUserAgent, Status running, CPU Time: pcputimes(user=4.434586624, system=3.620286976, children_user=0.0, children_system=0.0)
+PID: 603, Name: com.apple.dock.extra, Status running, CPU Time: pcputimes(user=6.388243456, system=1.646711936, children_user=0.0, children_system=0.0)
+PID: 608, Name: commerce, Status running, CPU Time: pcputimes(user=0.195806544, system=0.19920088, children_user=0.0, children_system=0.0)
+PID: 609, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=3.6835712, system=1.600101888, children_user=0.0, children_system=0.0)
+PID: 615, Name: parentalcontrols, Status running, CPU Time: None
+PID: 621, Name: CursorUIViewService, Status running, CPU Time: pcputimes(user=4.825957376, system=2.725067264, children_user=0.0, children_system=0.0)
+PID: 623, Name: BatteriesAvocadoWidgetExtension, Status running, CPU Time: pcputimes(user=9.691092992, system=1.921885568, children_user=0.0, children_system=0.0)
+PID: 625, Name: Surfshark, Status running, CPU Time: pcputimes(user=388.920705024, system=59.375460352, children_user=0.0, children_system=0.0)
+PID: 626, Name: CalendarWidgetExtension, Status running, CPU Time: pcputimes(user=5.365621248, system=0.209768256, children_user=0.0, children_system=0.0)
+PID: 629, Name: WorldClockWidget, Status running, CPU Time: pcputimes(user=2.315355136, system=0.099248544, children_user=0.0, children_system=0.0)
+PID: 630, Name: UIKitSystem, Status running, CPU Time: pcputimes(user=1.328433792, system=1.322823168, children_user=0.0, children_system=0.0)
+PID: 631, Name: NewsTag, Status running, CPU Time: pcputimes(user=23.896068096, system=6.460199936, children_user=0.0, children_system=0.0)
+PID: 632, Name: ScreenTimeWidgetExtension, Status running, CPU Time: pcputimes(user=3.378143232, system=1.02580032, children_user=0.0, children_system=0.0)
+PID: 638, Name: maild, Status running, CPU Time: pcputimes(user=17.132232704, system=5.506288128, children_user=0.0, children_system=0.0)
+PID: 646, Name: BTLEServerAgent, Status running, CPU Time: pcputimes(user=0.064139, system=0.064453168, children_user=0.0, children_system=0.0)
+PID: 652, Name: UniversalControl, Status running, CPU Time: pcputimes(user=51.88784128, system=32.90678272, children_user=0.0, children_system=0.0)
+PID: 653, Name: mdbulkimport, Status running, CPU Time: pcputimes(user=3.552766976, system=3.084281344, children_user=0.0, children_system=0.0)
+PID: 656, Name: cewd, Status running, CPU Time: pcputimes(user=0.001421041, system=0.003340958, children_user=0.0, children_system=0.0)
+PID: 670, Name: fairplayd, Status running, CPU Time: None
+PID: 671, Name: milod, Status running, CPU Time: pcputimes(user=3.646129408, system=0.986233088, children_user=0.0, children_system=0.0)
+PID: 697, Name: wifivelocityd, Status running, CPU Time: None
+PID: 701, Name: storedownloadd, Status running, CPU Time: pcputimes(user=0.068391504, system=0.064924752, children_user=0.0, children_system=0.0)
+PID: 730, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=3.121291264, system=1.889709696, children_user=0.0, children_system=0.0)
+PID: 734, Name: CrashReporterSup, Status running, CPU Time: None
+PID: 750, Name: SubmitDiagInfo, Status running, CPU Time: None
+PID: 802, Name: SiriNCService, Status running, CPU Time: pcputimes(user=5.079337984, system=2.18784256, children_user=0.0, children_system=0.0)
+PID: 851, Name: contactsd, Status running, CPU Time: pcputimes(user=258.680864768, system=106.026131456, children_user=0.0, children_system=0.0)
+PID: 863, Name: SafariBookmarksSyncAgent, Status running, CPU Time: pcputimes(user=2.195523328, system=1.569759616, children_user=0.0, children_system=0.0)
+PID: 870, Name: distnoted, Status running, CPU Time: None
+PID: 881, Name: AppleSpell, Status running, CPU Time: pcputimes(user=24.41473024, system=8.235131392, children_user=0.0, children_system=0.0)
+PID: 931, Name: Safari, Status running, CPU Time: pcputimes(user=237.509443584, system=91.942289408, children_user=0.0, children_system=0.0)
+PID: 932, Name: com.apple.Safari.History, Status running, CPU Time: pcputimes(user=11.460324352, system=1.401852928, children_user=0.0, children_system=0.0)
+PID: 934, Name: passd, Status running, CPU Time: pcputimes(user=0.590352768, system=1.13962496, children_user=0.0, children_system=0.0)
+PID: 937, Name: CVMServer, Status running, CPU Time: None
+PID: 940, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=127.574228992, system=65.753378816, children_user=0.0, children_system=0.0)
+PID: 943, Name: com.apple.Safari.SearchHelper, Status running, CPU Time: pcputimes(user=1.1639104, system=0.807744768, children_user=0.0, children_system=0.0)
+PID: 957, Name: distnoted, Status running, CPU Time: None
+PID: 1013, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=0.104466832, system=0.116952416, children_user=0.0, children_system=0.0)
+PID: 1021, Name: PDF Reader Pro, Status running, CPU Time: pcputimes(user=2796.100517888, system=602.905772032, children_user=0.0, children_system=0.0)
+PID: 1025, Name: mdwrite, Status running, CPU Time: pcputimes(user=0.020116958, system=0.027884458, children_user=0.0, children_system=0.0)
+PID: 1039, Name: fbahelperd, Status running, CPU Time: None
+PID: 1043, Name: peopled, Status running, CPU Time: pcputimes(user=4.656854016, system=1.193939968, children_user=0.0, children_system=0.0)
+PID: 1045, Name: Messages Assistant Extension, Status running, CPU Time: pcputimes(user=1.12579776, system=0.339065504, children_user=0.0, children_system=0.0)
+PID: 1049, Name: audiomxd, Status running, CPU Time: None
+PID: 1050, Name: searchpartyuseragent, Status running, CPU Time: pcputimes(user=19.73297152, system=9.683956736, children_user=0.0, children_system=0.0)
+PID: 1061, Name: com.apple.appkit.xpc.openAndSavePanelService, Status running, CPU Time: pcputimes(user=0.94509088, system=1.09553664, children_user=0.0, children_system=0.0)
+PID: 1136, Name: PowerChime, Status running, CPU Time: pcputimes(user=0.38164624, system=0.650134656, children_user=0.0, children_system=0.0)
+PID: 1138, Name: com.apple.Ambien, Status running, CPU Time: None
+PID: 1141, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1143, Name: com.apple.Driver, Status running, CPU Time: None
+PID: 1441, Name: com.apple.hiservices-xpcservice, Status running, CPU Time: pcputimes(user=10.707966976, system=12.102084608, children_user=0.0, children_system=0.0)
+PID: 1444, Name: com.apple.PassKit.PaymentAuthorizationUIExtension, Status running, CPU Time: pcputimes(user=3.585956096, system=1.284508544, children_user=0.0, children_system=0.0)
+PID: 1475, Name: audioanalyticsd, Status running, CPU Time: None
+PID: 1523, Name: com.apple.Safari.SandboxBroker, Status running, CPU Time: pcputimes(user=0.641746816, system=0.880891392, children_user=0.0, children_system=0.0)
+PID: 1525, Name: LocalAuthenticationRemoteService, Status running, CPU Time: pcputimes(user=0.727985152, system=0.822936192, children_user=0.0, children_system=0.0)
+PID: 1569, Name: Messages, Status running, CPU Time: pcputimes(user=6.231574016, system=5.540962304, children_user=0.0, children_system=0.0)
+PID: 1784, Name: DiskUnmountWatcher, Status running, CPU Time: pcputimes(user=0.0185195, system=0.034560792, children_user=0.0, children_system=0.0)
+PID: 1793, Name: universalAccessAuthWarn, Status running, CPU Time: pcputimes(user=0.577690752, system=0.719308096, children_user=0.0, children_system=0.0)
+PID: 1807, Name: taskgated, Status running, CPU Time: None
+PID: 1862, Name: backupd, Status running, CPU Time: None
+PID: 1885, Name: NowPlayingTouchUI, Status running, CPU Time: pcputimes(user=2.079412864, system=1.630020736, children_user=0.0, children_system=0.0)
+PID: 1981, Name: iCUEUpdateServic, Status running, CPU Time: None
+PID: 2006, Name: VMware Fusion, Status running, CPU Time: pcputimes(user=145.37588736, system=64.664375296, children_user=0.0, children_system=0.0)
+PID: 2010, Name: iCUE, Status running, CPU Time: pcputimes(user=530.578178048, system=509.516283904, children_user=0.0, children_system=0.0)
+PID: 2012, Name: com.apple.ctkpcscd, Status running, CPU Time: pcputimes(user=1.494289536, system=2.01208384, children_user=0.0, children_system=0.0)
+PID: 2015, Name: VMware Fusion Start Menu, Status running, CPU Time: pcputimes(user=0.198937712, system=0.32386608, children_user=0.0, children_system=0.0)
+PID: 2021, Name: crashpad_handler, Status running, CPU Time: pcputimes(user=0.002801208, system=0.002827333, children_user=0.0, children_system=0.0)
+PID: 2024, Name: VMware Fusion Services, Status running, CPU Time: pcputimes(user=0.004687708, system=0.004579125, children_user=0.0, children_system=0.0)
+PID: 2079, Name: vmnet-bridge, Status running, CPU Time: None
+PID: 2121, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2125, Name: InternetSharing, Status running, CPU Time: None
+PID: 2138, Name: vmnet-natd, Status running, CPU Time: None
+PID: 2140, Name: vmnet-dhcpd, Status running, CPU Time: None
+PID: 2142, Name: vmware-usbarbitr, Status running, CPU Time: None
+PID: 2197, Name: USBAgent, Status running, CPU Time: pcputimes(user=0.037182084, system=0.013850708, children_user=0.0, children_system=0.0)
+PID: 2253, Name: coreduetd, Status running, CPU Time: None
+PID: 2254, Name: spotlightknowledged, Status running, CPU Time: pcputimes(user=11.714127872, system=6.064530432, children_user=0.0, children_system=0.0)
+PID: 2350, Name: contentlinkingd, Status running, CPU Time: pcputimes(user=0.434430912, system=0.36634528, children_user=0.0, children_system=0.0)
+PID: 2351, Name: inputanalyticsd, Status running, CPU Time: pcputimes(user=0.220221872, system=0.308184256, children_user=0.0, children_system=0.0)
+PID: 2546, Name: mmaintenanced, Status running, CPU Time: None
+PID: 2623, Name: distnoted, Status running, CPU Time: None
+PID: 2939, Name: com.apple.mail.SpotlightIndexExtension, Status running, CPU Time: pcputimes(user=0.124961208, system=0.321062048, children_user=0.0, children_system=0.0)
+PID: 3041, Name: distnoted, Status running, CPU Time: None
+PID: 3222, Name: QmlRenderer, Status running, CPU Time: pcputimes(user=428.316065792, system=618.824728576, children_user=0.0, children_system=0.0)
+PID: 3268, Name: storeuid, Status running, CPU Time: pcputimes(user=0.265161456, system=0.424766464, children_user=0.0, children_system=0.0)
+PID: 3294, Name: diskimagesiod, Status running, CPU Time: None
+PID: 3517, Name: distnoted, Status running, CPU Time: None
+PID: 3530, Name: Mail, Status running, CPU Time: pcputimes(user=26.419859456, system=12.182068224, children_user=0.0, children_system=0.0)
+PID: 3535, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=0.51255488, system=0.674577472, children_user=0.0, children_system=0.0)
+PID: 3536, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.433755904, system=0.820004736, children_user=0.0, children_system=0.0)
+PID: 3538, Name: com.apple.WebKit.Networking, Status running, CPU Time: pcputimes(user=0.22349912, system=0.200933504, children_user=0.0, children_system=0.0)
+PID: 3546, Name: distnoted, Status running, CPU Time: None
+PID: 3547, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 3678, Name: proactived, Status running, CPU Time: pcputimes(user=0.460275712, system=0.451953952, children_user=0.0, children_system=0.0)
+PID: 3706, Name: neagent, Status running, CPU Time: pcputimes(user=0.518506528, system=0.230972, children_user=0.0, children_system=0.0)
+PID: 3761, Name: CoreLocationAgent, Status running, CPU Time: pcputimes(user=0.187387536, system=0.489700544, children_user=0.0, children_system=0.0)
+PID: 3762, Name: syncdefaultsd, Status running, CPU Time: pcputimes(user=0.466456448, system=0.465931872, children_user=0.0, children_system=0.0)
+PID: 3763, Name: AMPLibraryAgent, Status running, CPU Time: pcputimes(user=13.571760128, system=4.504945152, children_user=0.0, children_system=0.0)
+PID: 3788, Name: UsageTrackingAgent, Status running, CPU Time: pcputimes(user=1.968259072, system=1.2424896, children_user=0.0, children_system=0.0)
+PID: 3796, Name: com.surfshark.vp, Status running, CPU Time: None
+PID: 3856, Name: Music, Status running, CPU Time: pcputimes(user=8.471486464, system=4.3046912, children_user=0.0, children_system=0.0)
+PID: 3868, Name: VisualizerService_x86, Status running, CPU Time: pcputimes(user=0.401426176, system=0.935391104, children_user=0.0, children_system=0.0)
+PID: 3869, Name: VisualizerService, Status running, CPU Time: pcputimes(user=0.126905584, system=0.227512368, children_user=0.0, children_system=0.0)
+PID: 3934, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.15530392, system=0.23033112, children_user=0.0, children_system=0.0)
+PID: 3942, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.239014, system=0.355334784, children_user=0.0, children_system=0.0)
+PID: 4011, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=0.044904332, system=0.03286975, children_user=0.0, children_system=0.0)
+PID: 4098, Name: TGOnDeviceInfere, Status running, CPU Time: None
+PID: 4148, Name: AssetCacheLocatorService, Status running, CPU Time: pcputimes(user=0.123802336, system=0.152219536, children_user=0.0, children_system=0.0)
+PID: 4230, Name: amsaccountsd, Status running, CPU Time: pcputimes(user=0.43309696, system=0.587857664, children_user=0.0, children_system=0.0)
+PID: 4231, Name: containermanager, Status running, CPU Time: None
+PID: 4246, Name: Discord, Status running, CPU Time: pcputimes(user=11.61913856, system=8.12928512, children_user=0.0, children_system=0.0)
+PID: 4248, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.006127583, system=0.02482804, children_user=0.0, children_system=0.0)
+PID: 4250, Name: Discord Helper (GPU), Status running, CPU Time: pcputimes(user=1.569496064, system=1.04039168, children_user=0.0, children_system=0.0)
+PID: 4251, Name: Discord Helper, Status running, CPU Time: pcputimes(user=1.272194176, system=0.990626304, children_user=0.0, children_system=0.0)
+PID: 4256, Name: Discord Helper (Renderer), Status running, CPU Time: pcputimes(user=191.794118656, system=100.580663296, children_user=0.0, children_system=0.0)
+PID: 4270, Name: Discord Helper, Status running, CPU Time: pcputimes(user=0.510695168, system=0.307243264, children_user=0.0, children_system=0.0)
+PID: 4271, Name: Discord Helper (Plugin), Status running, CPU Time: pcputimes(user=0.481457152, system=0.301190656, children_user=0.0, children_system=0.0)
+PID: 4288, Name: DockHelper, Status running, CPU Time: pcputimes(user=0.379243456, system=0.440948256, children_user=0.0, children_system=0.0)
+PID: 4304, Name: AppSSOAgent, Status running, CPU Time: pcputimes(user=0.150287712, system=0.301233792, children_user=0.0, children_system=0.0)
+PID: 4305, Name: AppSSODaemon, Status running, CPU Time: None
+PID: 4309, Name: biometrickitd, Status running, CPU Time: None
+PID: 4312, Name: parsecd, Status running, CPU Time: pcputimes(user=0.484887616, system=0.821023552, children_user=0.0, children_system=0.0)
+PID: 4314, Name: itunescloudd, Status running, CPU Time: pcputimes(user=0.262854544, system=0.276571584, children_user=0.0, children_system=0.0)
+PID: 4342, Name: bird, Status running, CPU Time: pcputimes(user=17.425061888, system=11.202743296, children_user=0.0, children_system=0.0)
+PID: 4343, Name: usermanagerd, Status running, CPU Time: None
+PID: 4345, Name: NewsScoringService, Status running, CPU Time: pcputimes(user=0.083724544, system=0.195018464, children_user=0.0, children_system=0.0)
+PID: 4350, Name: Keychain Circle Notification, Status running, CPU Time: pcputimes(user=0.158121952, system=0.192196672, children_user=0.0, children_system=0.0)
+PID: 4354, Name: OSDUIHelper, Status running, CPU Time: pcputimes(user=0.368046496, system=0.438549696, children_user=0.0, children_system=0.0)
+PID: 4355, Name: secinitd, Status running, CPU Time: pcputimes(user=0.326483008, system=0.298033088, children_user=0.0, children_system=0.0)
+PID: 4356, Name: wifip2pd, Status running, CPU Time: None
+PID: 4371, Name: ctkd, Status running, CPU Time: pcputimes(user=0.103251504, system=0.138857712, children_user=0.0, children_system=0.0)
+PID: 4373, Name: findmylocateagent, Status running, CPU Time: pcputimes(user=0.237485328, system=0.369221344, children_user=0.0, children_system=0.0)
+PID: 4374, Name: securityd_system, Status running, CPU Time: None
+PID: 4376, Name: photolibraryd, Status running, CPU Time: pcputimes(user=0.904580928, system=0.802853504, children_user=0.0, children_system=0.0)
+PID: 4377, Name: ScopedBookmarkAgent, Status running, CPU Time: pcputimes(user=0.149323424, system=0.131648872, children_user=0.0, children_system=0.0)
+PID: 4378, Name: mediaanalysisd, Status running, CPU Time: pcputimes(user=28.180271104, system=4.975414784, children_user=0.0, children_system=0.0)
+PID: 4418, Name: calaccessd, Status running, CPU Time: pcputimes(user=3.754191104, system=1.766038784, children_user=0.0, children_system=0.0)
+PID: 4464, Name: mobileactivation, Status running, CPU Time: None
+PID: 4478, Name: AppPredictionIntentsHelperService, Status running, CPU Time: pcputimes(user=1.645618304, system=1.761909376, children_user=0.0, children_system=0.0)
+PID: 4486, Name: linkd, Status running, CPU Time: pcputimes(user=1.875042048, system=1.176919296, children_user=0.0, children_system=0.0)
+PID: 4521, Name: com.apple.quicklook.ThumbnailsAgent, Status running, CPU Time: pcputimes(user=1.212096512, system=0.876190848, children_user=0.0, children_system=0.0)
+PID: 4558, Name: youtube-music-desktop-app, Status running, CPU Time: pcputimes(user=55.113678848, system=16.220548096, children_user=0.0, children_system=0.0)
+PID: 4591, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.034000708, system=0.014767875, children_user=0.0, children_system=0.0)
+PID: 4595, Name: YouTube Music Desktop App Helper (GPU), Status running, CPU Time: pcputimes(user=196.492296192, system=63.972253696, children_user=0.0, children_system=0.0)
+PID: 4598, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=8.192957952, system=5.260249088, children_user=0.0, children_system=0.0)
+PID: 4603, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=2.122282112, system=0.427322624, children_user=0.0, children_system=0.0)
+PID: 4610, Name: BackgroundTaskManagementAgent, Status running, CPU Time: pcputimes(user=0.127081792, system=0.207755296, children_user=0.0, children_system=0.0)
+PID: 4618, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=556.049825792, system=58.770546688, children_user=0.0, children_system=0.0)
+PID: 4631, Name: YouTube Music Desktop App Helper (Renderer), Status running, CPU Time: pcputimes(user=3.447833088, system=0.814207936, children_user=0.0, children_system=0.0)
+PID: 4632, Name: YouTube Music Desktop App Helper, Status running, CPU Time: pcputimes(user=62.495404032, system=22.668951552, children_user=0.0, children_system=0.0)
+PID: 4635, Name: VTDecoderXPCService, Status running, CPU Time: pcputimes(user=62.275510272, system=80.892788736, children_user=0.0, children_system=0.0)
+PID: 4777, Name: recentsd, Status running, CPU Time: pcputimes(user=0.051652792, system=0.047847792, children_user=0.0, children_system=0.0)
+PID: 4817, Name: amsengagementd, Status running, CPU Time: pcputimes(user=0.906555456, system=0.71346144, children_user=0.0, children_system=0.0)
+PID: 4818, Name: appstoreagent, Status running, CPU Time: pcputimes(user=0.421269568, system=0.483215488, children_user=0.0, children_system=0.0)
+PID: 4819, Name: gamed, Status running, CPU Time: pcputimes(user=0.754047936, system=0.69954816, children_user=0.0, children_system=0.0)
+PID: 4824, Name: promotedcontentd, Status running, CPU Time: pcputimes(user=0.162265744, system=0.176867248, children_user=0.0, children_system=0.0)
+PID: 4828, Name: com.apple.WebKit.GPU, Status running, CPU Time: pcputimes(user=6.066747904, system=3.041565184, children_user=0.0, children_system=0.0)
+PID: 4830, Name: sociallayerd, Status running, CPU Time: pcputimes(user=0.309257056, system=0.176269584, children_user=0.0, children_system=0.0)
+PID: 4832, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=3.196156928, system=0.823916288, children_user=0.0, children_system=0.0)
+PID: 4834, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=19.898236928, system=5.073977856, children_user=0.0, children_system=0.0)
+PID: 4867, Name: TextThumbnailExtension, Status running, CPU Time: pcputimes(user=0.404279296, system=0.13205, children_user=0.0, children_system=0.0)
+PID: 4877, Name: UserNotificationCenter, Status running, CPU Time: pcputimes(user=0.628121344, system=0.396461568, children_user=0.0, children_system=0.0)
+PID: 4878, Name: CommCenter, Status running, CPU Time: pcputimes(user=0.10654304, system=0.352225664, children_user=0.0, children_system=0.0)
+PID: 4892, Name: siriactionsd, Status running, CPU Time: pcputimes(user=0.493826944, system=0.616143936, children_user=0.0, children_system=0.0)
+PID: 4895, Name: siriknowledged, Status running, CPU Time: pcputimes(user=4.193523456, system=1.704250624, children_user=0.0, children_system=0.0)
+PID: 4899, Name: SetStoreUpdateService, Status running, CPU Time: pcputimes(user=0.231227376, system=0.15338688, children_user=0.0, children_system=0.0)
+PID: 4901, Name: smd, Status running, CPU Time: None
+PID: 4912, Name: photoanalysisd, Status running, CPU Time: pcputimes(user=1.368837504, system=0.743806784, children_user=0.0, children_system=0.0)
+PID: 4932, Name: dataaccessd, Status running, CPU Time: pcputimes(user=3.407126784, system=1.550229888, children_user=0.0, children_system=0.0)
+PID: 4939, Name: donotdisturbd, Status running, CPU Time: pcputimes(user=1.277715712, system=0.611973504, children_user=0.0, children_system=0.0)
+PID: 4947, Name: iCloudNotificationAgent, Status running, CPU Time: pcputimes(user=0.103948288, system=0.133890912, children_user=0.0, children_system=0.0)
+PID: 4948, Name: appleaccountd, Status running, CPU Time: pcputimes(user=0.214433376, system=0.208734672, children_user=0.0, children_system=0.0)
+PID: 4950, Name: generativeexperiencesd, Status running, CPU Time: pcputimes(user=1.545073024, system=0.79191424, children_user=0.0, children_system=0.0)
+PID: 4951, Name: followupd, Status running, CPU Time: pcputimes(user=0.030261958, system=0.037215168, children_user=0.0, children_system=0.0)
+PID: 5190, Name: IMDPersistenceAgent, Status running, CPU Time: pcputimes(user=4.105008384, system=1.020238144, children_user=0.0, children_system=0.0)
+PID: 5192, Name: newsd, Status running, CPU Time: pcputimes(user=0.223020048, system=0.318091968, children_user=0.0, children_system=0.0)
+PID: 5203, Name: countryd, Status running, CPU Time: None
+PID: 5206, Name: routined, Status running, CPU Time: pcputimes(user=3.354850816, system=2.269722368, children_user=0.0, children_system=0.0)
+PID: 5239, Name: ScreenTimeAgent, Status running, CPU Time: pcputimes(user=2.279010816, system=1.254479104, children_user=0.0, children_system=0.0)
+PID: 5252, Name: storekitagent, Status running, CPU Time: pcputimes(user=0.173869296, system=0.184027952, children_user=0.0, children_system=0.0)
+PID: 5372, Name: powerdatad, Status running, CPU Time: None
+PID: 5382, Name: osanalyticshelpe, Status running, CPU Time: None
+PID: 5423, Name: cloudphotod, Status running, CPU Time: pcputimes(user=0.101612832, system=0.14281896, children_user=0.0, children_system=0.0)
+PID: 5436, Name: cfprefsd, Status running, CPU Time: None
+PID: 5446, Name: bash, Status running, CPU Time: pcputimes(user=0.005254041, system=0.009504333, children_user=0.0, children_system=0.0)
+PID: 5447, Name: top, Status running, CPU Time: None
+PID: 5448, Name: grep, Status running, CPU Time: pcputimes(user=0.071277832, system=0.043554916, children_user=0.0, children_system=0.0)
+PID: 5449, Name: keyboardservicesd, Status running, CPU Time: pcputimes(user=0.09148004, system=0.103603248, children_user=0.0, children_system=0.0)
+PID: 5450, Name: FPCKService, Status running, CPU Time: pcputimes(user=19.142260736, system=18.732212224, children_user=0.0, children_system=0.0)
+PID: 5500, Name: findmydevice-user-agent, Status running, CPU Time: pcputimes(user=0.071275584, system=0.05424, children_user=0.0, children_system=0.0)
+PID: 5519, Name: fmfd, Status running, CPU Time: pcputimes(user=0.269855776, system=0.282905568, children_user=0.0, children_system=0.0)
+PID: 5631, Name: Terminal, Status running, CPU Time: pcputimes(user=6.0292608, system=2.182060544, children_user=0.0, children_system=0.0)
+PID: 5633, Name: com.apple.Accoun, Status running, CPU Time: None
+PID: 5702, Name: WeatherWidget, Status running, CPU Time: pcputimes(user=1.097786752, system=0.496, children_user=0.0, children_system=0.0)
+PID: 5737, Name: businessservicesd, Status running, CPU Time: pcputimes(user=0.087289664, system=0.125160584, children_user=0.0, children_system=0.0)
+PID: 5743, Name: com.apple.WebKit.WebContent, Status running, CPU Time: pcputimes(user=0.197218288, system=0.299063712, children_user=0.0, children_system=0.0)
+PID: 5757, Name: ChatGPT, Status running, CPU Time: pcputimes(user=172.07738368, system=17.148977152, children_user=0.0, children_system=0.0)
+PID: 5786, Name: storagekitd, Status running, CPU Time: None
+PID: 5790, Name: cdpd, Status running, CPU Time: pcputimes(user=0.044118832, system=0.050808752, children_user=0.0, children_system=0.0)
+PID: 5837, Name: spindump, Status running, CPU Time: None
+PID: 5853, Name: Electron, Status running, CPU Time: pcputimes(user=58.027372544, system=17.330141184, children_user=0.0, children_system=0.0)
+PID: 5857, Name: chrome_crashpad_handler, Status running, CPU Time: pcputimes(user=0.004577708, system=0.009853416, children_user=0.0, children_system=0.0)
+PID: 5858, Name: Code Helper (GPU), Status running, CPU Time: pcputimes(user=64.731414528, system=20.214626304, children_user=0.0, children_system=0.0)
+PID: 5859, Name: Code Helper, Status running, CPU Time: pcputimes(user=0.935212096, system=0.548039744, children_user=0.0, children_system=0.0)
+PID: 5861, Name: Code Helper (Renderer), Status running, CPU Time: pcputimes(user=216.779390976, system=20.10249216, children_user=0.0, children_system=0.0)
+PID: 5873, Name: ThemeWidgetControlViewService, Status running, CPU Time: pcputimes(user=0.040735416, system=0.053434168, children_user=0.0, children_system=0.0)
+PID: 5874, Name: Code Helper, Status running, CPU Time: pcputimes(user=7.274518016, system=2.074498816, children_user=0.0, children_system=0.0)
+PID: 5875, Name: Code Helper, Status running, CPU Time: pcputimes(user=1.052321024, system=0.767796224, children_user=0.0, children_system=0.0)
+PID: 5893, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=25.790312448, system=5.3946112, children_user=0.0, children_system=0.0)
+PID: 5913, Name: Code Helper, Status running, CPU Time: pcputimes(user=3.579688192, system=4.974240768, children_user=0.0, children_system=0.0)
+PID: 5914, Name: zsh, Status running, CPU Time: pcputimes(user=0.005551916, system=0.009695875, children_user=0.0, children_system=0.0)
+PID: 5935, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=0.263193632, system=0.093496208, children_user=0.0, children_system=0.0)
+PID: 6007, Name: Code Helper (Plugin), Status running, CPU Time: pcputimes(user=50.682703872, system=6.698735616, children_user=0.0, children_system=0.0)
+PID: 6844, Name: zsh, Status running, CPU Time: pcputimes(user=0.023627416, system=0.05810396, children_user=0.0, children_system=0.0)
+PID: 6902, Name: LinkedNotesUIService, Status running, CPU Time: pcputimes(user=0.12500096, system=0.16684608, children_user=0.0, children_system=0.0)
+PID: 7081, Name: zsh, Status running, CPU Time: pcputimes(user=0.007315875, system=0.012733541, children_user=0.0, children_system=0.0)
+PID: 7111, Name: zsh, Status running, CPU Time: pcputimes(user=0.007326958, system=0.0110025, children_user=0.0, children_system=0.0)
+PID: 7387, Name: intelligentroutingd, Status running, CPU Time: pcputimes(user=0.204719296, system=0.185784576, children_user=0.0, children_system=0.0)
+PID: 7405, Name: colorsyncd, Status running, CPU Time: None
+PID: 7406, Name: com.apple.iCloudHelper, Status running, CPU Time: pcputimes(user=0.53446032, system=0.2719912, children_user=0.0, children_system=0.0)
+PID: 7407, Name: colorsync.useragent, Status running, CPU Time: pcputimes(user=0.012202916, system=0.012815166, children_user=0.0, children_system=0.0)
+PID: 7408, Name: com.apple.CloudPhotosConfiguration, Status running, CPU Time: pcputimes(user=0.046681084, system=0.055390708, children_user=0.0, children_system=0.0)
+PID: 7411, Name: TrustedPeersHelper, Status running, CPU Time: pcputimes(user=0.072591872, system=0.030706124, children_user=0.0, children_system=0.0)
+PID: 7421, Name: spindump_agent, Status running, CPU Time: pcputimes(user=0.00997675, system=0.009911791, children_user=0.0, children_system=0.0)
+PID: 7429, Name: studentd, Status running, CPU Time: pcputimes(user=1.22381056, system=0.299865888, children_user=0.0, children_system=0.0)
+PID: 7430, Name: transparencyd, Status running, CPU Time: pcputimes(user=0.707299712, system=0.287329504, children_user=0.0, children_system=0.0)
+PID: 7431, Name: progressd, Status running, CPU Time: pcputimes(user=0.12458992, system=0.040552332, children_user=0.0, children_system=0.0)
+PID: 7433, Name: ProtectedCloudKeySyncing, Status running, CPU Time: pcputimes(user=0.023219292, system=0.0218365, children_user=0.0, children_system=0.0)
+PID: 7437, Name: nfcd, Status running, CPU Time: None
+PID: 7438, Name: NFStorageServer, Status running, CPU Time: None
+PID: 7439, Name: colorsync.displa, Status running, CPU Time: None
+PID: 7440, Name: com.apple.ColorS, Status running, CPU Time: None
+PID: 7500, Name: idleassetsd, Status running, CPU Time: None
+PID: 7513, Name: ospredictiond, Status running, CPU Time: None
+PID: 7514, Name: feedbackd, Status running, CPU Time: pcputimes(user=0.01920025, system=0.0180935, children_user=0.0, children_system=0.0)
+PID: 7516, Name: managedcorespotlightd, Status running, CPU Time: pcputimes(user=0.029542876, system=0.038389792, children_user=0.0, children_system=0.0)
+PID: 7517, Name: gamecontrollerd, Status running, CPU Time: None
+PID: 7518, Name: gamecontrolleragentd, Status running, CPU Time: pcputimes(user=0.06720196, system=0.0420015, children_user=0.0, children_system=0.0)
+PID: 7519, Name: icloudmailagent, Status running, CPU Time: pcputimes(user=0.308010176, system=0.136606784, children_user=0.0, children_system=0.0)
+PID: 7524, Name: online-auth-agen, Status running, CPU Time: None
+PID: 7533, Name: cloudd, Status running, CPU Time: None
+PID: 7538, Name: mobileassetd, Status running, CPU Time: None
+PID: 7539, Name: softwareupdated, Status running, CPU Time: None
+PID: 7542, Name: softwareupdated, Status running, CPU Time: None
+PID: 7544, Name: com.apple.Mobile, Status running, CPU Time: None
+PID: 7545, Name: SidecarRelay, Status running, CPU Time: pcputimes(user=0.023575916, system=0.03037425, children_user=0.0, children_system=0.0)
+PID: 7547, Name: backupd-helper, Status running, CPU Time: None
+PID: 7556, Name: com.apple.geod, Status running, CPU Time: pcputimes(user=0.239080752, system=0.378363744, children_user=0.0, children_system=0.0)
+PID: 7557, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7558, Name: com.apple.geod, Status running, CPU Time: None
+PID: 7559, Name: secinitd, Status running, CPU Time: None
+PID: 7560, Name: secinitd, Status running, CPU Time: None
+PID: 7561, Name: cfprefsd, Status running, CPU Time: None
+PID: 7562, Name: trustd, Status running, CPU Time: None
+PID: 7563, Name: trustdFileHelper, Status running, CPU Time: None
+PID: 7564, Name: cfprefsd, Status running, CPU Time: None
+PID: 7565, Name: containermanager, Status running, CPU Time: None
+PID: 7566, Name: trustd, Status running, CPU Time: None
+PID: 7568, Name: containermanager, Status running, CPU Time: None
+PID: 7571, Name: findmybeaconingd, Status running, CPU Time: None
+PID: 7611, Name: modelcatalogd, Status running, CPU Time: None
+PID: 7612, Name: com.apple.siri.embeddedspeech, Status running, CPU Time: pcputimes(user=0.890776, system=0.263782128, children_user=0.0, children_system=0.0)
+PID: 7657, Name: devicecheckd, Status running, CPU Time: pcputimes(user=0.069800168, system=0.03704954, children_user=0.0, children_system=0.0)
+PID: 7658, Name: naturallanguaged, Status running, CPU Time: pcputimes(user=0.713480256, system=0.220097584, children_user=0.0, children_system=0.0)
+PID: 7686, Name: swtransparencyd, Status running, CPU Time: pcputimes(user=0.065427664, system=0.079950248, children_user=0.0, children_system=0.0)
+PID: 7687, Name: CloudTelemetryService, Status running, CPU Time: pcputimes(user=0.085912496, system=0.041717792, children_user=0.0, children_system=0.0)
+PID: 7818, Name: sysmond, Status running, CPU Time: None
+PID: 7819, Name: SAExtensionOrchestrator, Status running, CPU Time: pcputimes(user=0.159069216, system=0.054281832, children_user=0.0, children_system=0.0)
+PID: 7820, Name: extensionkitservice, Status running, CPU Time: pcputimes(user=0.121840872, system=0.038612624, children_user=0.0, children_system=0.0)
+PID: 7821, Name: IFTranscriptSELFIngestor, Status running, CPU Time: pcputimes(user=0.030428084, system=0.02816204, children_user=0.0, children_system=0.0)
+PID: 7822, Name: IFTelemetrySELFIngestor, Status running, CPU Time: pcputimes(user=0.031256708, system=0.017582376, children_user=0.0, children_system=0.0)
+PID: 7823, Name: BiomeSELFIngestor, Status running, CPU Time: pcputimes(user=0.033307084, system=0.022310376, children_user=0.0, children_system=0.0)
+PID: 7824, Name: GMSSELFIngestor, Status running, CPU Time: pcputimes(user=0.030761666, system=0.025116958, children_user=0.0, children_system=0.0)
+PID: 7849, Name: findmydeviced, Status running, CPU Time: None
+PID: 7852, Name: akd, Status running, CPU Time: None
+PID: 7853, Name: FindMyDeviceIden, Status running, CPU Time: None
+PID: 7858, Name: intelligenceplatformd, Status running, CPU Time: pcputimes(user=0.151521504, system=0.15135792, children_user=0.0, children_system=0.0)
+PID: 7913, Name: replicatord, Status running, CPU Time: pcputimes(user=1.167133696, system=0.515437408, children_user=0.0, children_system=0.0)
+PID: 7943, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.031127708, system=0.076050752, children_user=0.0, children_system=0.0)
+PID: 7944, Name: MTLCompilerService, Status running, CPU Time: pcputimes(user=0.016310291, system=0.025470332, children_user=0.0, children_system=0.0)
+PID: 7954, Name: appplaceholdersyncd, Status running, CPU Time: pcputimes(user=0.83818208, system=0.910042432, children_user=0.0, children_system=0.0)
+PID: 7963, Name: com.apple.StreamingUnzipService, Status running, CPU Time: pcputimes(user=0.098307584, system=0.078996, children_user=0.0, children_system=0.0)
+PID: 8038, Name: com.apple.Safari.SafeBrowsing.Service, Status running, CPU Time: pcputimes(user=1.111949312, system=0.306476, children_user=0.0, children_system=0.0)
+PID: 8039, Name: IntelligencePlatformComputeService, Status running, CPU Time: pcputimes(user=0.326722368, system=0.313293344, children_user=0.0, children_system=0.0)
+PID: 8206, Name: Python, Status stopped, CPU Time: pcputimes(user=0.098688912, system=0.09494296, children_user=0.0, children_system=0.0)
+PID: 8224, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.102436544, system=0.036480084, children_user=0.0, children_system=0.0)
+PID: 8239, Name: Python, Status running, CPU Time: pcputimes(user=0.068599664, system=0.042585456, children_user=0.0, children_system=0.0)
+PID: 8245, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.070474456, system=0.030448416, children_user=0.0, children_system=0.0)
+PID: 8246, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.063263248, system=0.016469166, children_user=0.0, children_system=0.0)
+PID: 8247, Name: mdworker_shared, Status running, CPU Time: pcputimes(user=0.059061332, system=0.0141485, children_user=0.0, children_system=0.0)
+PID: 8248, Name: mdworker_shared, Status running, CPU Time: None
+
+

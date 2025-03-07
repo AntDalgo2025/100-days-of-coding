@@ -1,0 +1,24 @@
+For Day 4 I learned how to build a monitoring tool.
+
+Biggest take-away was understanding what JSON is and does. Along with argparse and socket.
+JSON is crutial for storing logs and exchanging data. JavaScript Object Notation (JSON) is widely 
+used due to the human-readability and is easy to parse to other programming languages.
+
+Argparse or argument parsing is a python module used for handling CLI arguments. It allows for arguments to pass
+options dynamically instead of modifying the script. It helps with the flexability of a security tool when it 
+takes in input like file paths, IP addresses, or modes. It is useful for automation, especially in penetration
+testing or log analyis.
+
+A socket allows for two devices to communicate to each other over a network. It enables client-server communication,
+which is the foundation of a lot of security tools. In terms of cybersecurity, it is used for port scanning, network 
+monitoring, and custom exploits. It can help create a custom network service for Pentesting. It powers
+backdoor communication, packet sniffing and more.
+
+As for the script its overall purpose is to conduct system monitoring and logging. It gathers and logs system information
+, it uses psutil to monitor system metrics, logs the data for auditing and/or security monitoring, and possibly detect
+anamolies or unusual activity.
+
+There is room for improvement, such as incorporating a stop function. As it is now it continualy logs data to no end.
+Adding to that is that there is no file rotation, which means it is all stored one file causing large file logs over
+time. There is no alert system in place if resource usage is critically high. The files are stored in plain text so if
+a threat actor were to gain access they can see the pattern usage of a system.

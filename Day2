@@ -1,0 +1,22 @@
+Day 2 Progress Update:
+
+Today I continued working on the system monitoring script, focusing on enhancing its functionality by integrating psutil for real-time CPU, memory, and process tracking.
+
+Positives:
+	•	Successfully incorporated psutil to monitor system resources like CPU and memory usage.
+	•	Improved the script’s ability to log process details, including sorting by CPU usage, making it more informative and structured.
+	•	Implemented a 10-second interval between each log cycle with time.sleep(10), ensuring a reasonable delay for updates.
+	•	Added a user-friendly prompt allowing them to decide whether to continue logging after every 3 cycles, giving better control over the script.
+	•	Managed to clean up the script by removing unnecessary console prints, streamlining the output.
+	•	Pushed the updated version to GitHub, keeping version control intact.
+
+Errors:
+	•	Encountered syntax errors, including missing colons after if statements and incorrect quotation marks (" vs '), but these were quickly resolved.
+	•	Had trouble understanding how psutil.process_iter() works initially, but after experimenting and reviewing the documentation, I was able to integrate it properly into the script.
+	•	Struggled a bit with file paths when writing to the log file, but eventually figured out how to specify the directory correctly.
+
+Changes:
+	•	The script now stops logging after 6 cycles (with a prompt to continue or stop after 3 cycles).
+	•	Cleaned up the log output and improved file handling by specifying the path clearly.
+
+Looking forward to building on this tomorrow!

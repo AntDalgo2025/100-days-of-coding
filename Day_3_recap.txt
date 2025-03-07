@@ -1,0 +1,25 @@
+#Got it! Here’s a recap for Day 3 to push to your GitHub:
+
+# ⸻
+
+# Day 3 - Recap
+
+# Accomplishments:
+#	•	Script Enhancements:
+#	•	We added a Rotating File Handler to the script to manage the log file size, ensuring that logs don’t grow too large. This feature keeps the last 5 log files, rotating them as the file size limit is reached (1 MB).
+#	•	Cycle Management:
+#	•	We refined the cycle management in the script, limiting the number of cycles to 6. The script will stop after completing 6 cycles, collecting system data and logging it accordingly.
+#	•	Introduced user input prompts to allow the user to decide whether to continue after every 3 cycles.
+#	•	Log File Structure:
+#	•	Integrated timestamping into log entries to keep track of when system data was collected.
+#	•	Included system resource metrics such as CPU usage, memory usage, disk usage, network usage, and process details in the logs.
+
+# Struggles:
+#	•	Handling User Prompts:
+#	•	We initially faced some issues where the user prompt to continue (after 3 cycles) was not halting the script as intended. The issue was corrected after adjusting the flow and ensuring the script stops after a user decides not to continue.
+#	•	Rotating File Handler Confusion:
+#	•	Implementing the rotating file handler initially caused some confusion with the way logs were handled and the intervals at which files were rotated. Once we understood the behavior of the RotatingFileHandler, this part of the script worked smoothly.
+#	•	Process Information:
+#	•	Extracting process information required careful attention to detail. We had to ensure that we handled processes that were no longer available and avoided errors due to access restrictions on certain processes.
+
+# ⸻
